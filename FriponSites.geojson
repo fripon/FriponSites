@@ -6,11 +6,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.94,47.83]},
-<<<<<<< HEAD
-          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE01-1024x768.jpg' target='_blank'>Orl&eacute;ans</a>"}
-=======
-          "properties": {"Orléans":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE01.jpg' style='width:80%'></a>"}
->>>>>>> 98ebc123d7b90b52a59358663b32df450ac660bf
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE01-1024x768.jpg' target='_blank'>Orléans</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.73,42.02]},
