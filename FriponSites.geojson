@@ -2,95 +2,99 @@
     "features": [
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.74,48.74]},
-          "properties": {"Gretz-Armainvilliers":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRIF03-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRIF03.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRIF03-1024x768.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.94,47.83]},
+<<<<<<< HEAD
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE01-1024x768.jpg' target='_blank'>Orl&eacute;ans</a>"}
+=======
           "properties": {"Orléans":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE01.jpg' style='width:80%'></a>"}
+>>>>>>> 98ebc123d7b90b52a59358663b32df450ac660bf
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.73,42.02]},
-          "properties": {"Mont Sec":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ESCA01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ESCA01.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ESCA01-1024x768.jpg' target='_blank'>Mont Sec</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.14,42.93]},
-          "properties": {"Pic du Midi":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRMP01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRMP01.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRMP01-1024x768.jpg' target='_blank'>Piv du Midi</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.82,45.82]},
-          "properties": {"Rochechouart":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLI01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLI01.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLI01-1024x768.jpg' target='_blank'>Rochechouart</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [16.36,48.20]},
-          "properties": {"Wien":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ATWI01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ATWI01.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ATWI01-1024x768.jpg' target='_blank'>Wien</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.71,43.93]},
-          "properties": {"Obs. de Haute Provence":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA03-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA03.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA03-1024x768.jpg' target='_blank'>Obs, de Haute Provence</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.75,43.96]},
-          "properties": {"Les Angles":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA07-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA07.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA07-1024x768.jpg' target='_blank'>Les Angles</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.43,43.34]},
-          "properties": {"Marseille":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA01.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA01-1024x768.jpg' target='_blank'>Marseille</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.85,45.21]},
-          "properties": {"Le Versoud":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRRA10-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRRA01.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRRA10-1024x768.jpg' target='_blank'>Le Versoud</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.18,48.70]},
-          "properties": {"Orsay":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRIF04-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRIF04.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRIF04-1024x768.jpg' target='_blank'>Orsay</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.10,43.64]},
-          "properties": {"Salon de Provence":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA08-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA08.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA08-1024x768.jpg' target='_blank'>Salon de Provence</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.42,43.49]},
-          "properties": {"Aix en Provence":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA02-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA02.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA02-1024x768.jpg' target='_blank'>Aix en Provence</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.79,46.39]},
-          "properties": {"Saint Lupicin":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC04-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC04.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC04-1024x768.jpg' target='_blank'>Saint Lupicin</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [3.07,50.61]},
-          "properties": {"Lille":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRNP01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRNP01.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRNP01-1024x768.jpg' target='_blank'>Lille</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-0.70,45.15]},
-          "properties": {"Coulounieix":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ06-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ06.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ06-1024x768.jpg' target='_blank'>Coulounieix</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.97,43.18]},
-          "properties": {"Narbonne":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLR03-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLR03.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLR03-1024x768.jpg' target='_blank'>Narbonne</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.53,48.58]},
-          "properties": {"Pierres":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE04-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE04.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCE04-1024x768.jpg' target='_blank'>Pierres</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [6.92,43.75]},
-          "properties": {"Caussols":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA05-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA05.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA05-1024x768.jpg' target='_blank'>Caussols</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-2.81,47.50]},
-          "properties": {"Vannes":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRBR04-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRBR04.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRBR04-1024x768.jpg' target='_blank'>Vannes</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.59,44.80]},
-          "properties": {"Talence":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ01.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ01-1024x768.jpg' target='_blank'>Talence</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [6.86,47.64]},
-          "properties": {"Belfort":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC02-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC02.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC02-1024x768.jpg' target='_blank'>Belfort</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-43.22,-22.90]},
-          "properties": {"Rio de Janeiro":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_BRRJ01-1024x768.jpg' target='_blank'><img src='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_BRRJ01.jpg' style='width:80%'></a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_BRRJ01-1024x768.jpg' target='_blank'>Rio de Janeiro</a>"}
       }
     ]
 }
