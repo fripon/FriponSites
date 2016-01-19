@@ -26,7 +26,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.71,43.93]},
-          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA03-1024x768.jpg' target='_blank'>Obs, de Haute Provence</a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA03-1024x768.jpg' target='_blank'>Obs. de Haute Provence</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.75,43.96]},
