@@ -85,7 +85,7 @@
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ01-1024x768.jpg' target='_blank'>Talence</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [1.03,43.69]},
+        "geometry": {"type": "Point", "coordinates": [-1.03,43.69]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ04-1024x768.jpg' target='_blank'>Dax</a>"}
       },
       { "type": "Feature",
