@@ -56,13 +56,19 @@
         "geometry": {"type": "Point", "coordinates": [5.79,46.39]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC04-1024x768.jpg' target='_blank'>Saint Lupicin</a>"}
       },
+      
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.57,47.86]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRBO06-1024x768.jpg' target='_blank'>Châtillon sur Seine</a>"}
+      },
+      
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [3.07,50.61]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRNP01-1024x768.jpg' target='_blank'>Lille</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-0.70,45.15]},
-          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ06-1024x768.jpg' target='_blank'>Coulounieix</a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ01-1024x768.jpg' target='_blank'>Talence</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.97,43.18]},
@@ -82,7 +88,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.59,44.80]},
-          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ01-1024x768.jpg' target='_blank'>Talence</a>"}
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ06-1024x768.jpg' target='_blank'>Coulounieix</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-1.03,43.69]},
