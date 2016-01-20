@@ -105,6 +105,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.03,46.96]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRBO03-1024x768.jpg' target='_blank'>Glux en Glenne</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.20,47.99]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAL02-1024x768.jpg' target='_blank'>Osenbach</a>"}
       }
     ]
 }
