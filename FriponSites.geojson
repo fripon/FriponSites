@@ -117,6 +117,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [3.32,46.56]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAU04-1024x768.jpg' target='_blank'>Moulins sur Allier</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.74,44.50]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLR04-1024x768.jpg' target='_blank'>Le Bleymard</a>"}
       }
     ]
 }
