@@ -127,7 +127,7 @@
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC03-1024x768.jpg' target='_blank'>Pontarlier</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [5.10,47.25]},
+        "geometry": {"type": "Point", "coordinates": [6.10,47.25]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC01-1024x768.jpg' target='_blank'>Besancon</a>"}
       }
     ]
