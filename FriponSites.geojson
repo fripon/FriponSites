@@ -129,6 +129,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [6.10,47.25]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC01-1024x768.jpg' target='_blank'>Besan&ccedil;on</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.06,49.24]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCA01-1024x768.jpg' target='_blank'>Reims</a>"}
       }
     ]
 }
