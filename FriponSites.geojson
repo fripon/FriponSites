@@ -133,6 +133,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.06,49.24]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCA01-1024x768.jpg' target='_blank'>Reims</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.76,50.28]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRNP05-1024x768.jpg' target='_blank'>Arras</a>"}
       }
     ]
 }
