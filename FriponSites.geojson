@@ -103,6 +103,18 @@
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_BRRJ01-1024x768.jpg' target='_blank'>Rio de Janeiro</a>"}
       },
       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.91,44.70]},
+          "properties": {"Name":"<a href='http://www.picdumidi.eu/fripon/saintveran/ImageLastFTP_AllSKY.jpg' target='_blank'>Saint Véran</a>"}
+      },   
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-68.17,-22.95]},
+          "properties": {"Name":"<a href='http://www.spaceobs.com/lib/meteo/ImageLastFTP_AllSKY.jpg' target='_blank'>San Pedro de Atacama</a>"} 
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [55.41,-21.20]},
+          "properties": {"Name":"<a href='http://www.picdumidi.eu/fripon/makes/ImageLastFTP_AllSKY.jpg' target='_blank'>Observatoire des Makes</a>"} 
+      },
+      { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.03,46.96]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRBO03-1024x768.jpg' target='_blank'>Glux en Glenne</a>"}
       },
