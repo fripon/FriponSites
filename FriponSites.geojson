@@ -139,7 +139,7 @@
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRNP05-1024x768.jpg' target='_blank'>Arras</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [6.64,40.39]},
+        "geometry": {"type": "Point", "coordinates": [6.64,44.39]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPA04-1024x768.jpg' target='_blank'>Barcelonette</a>"}
       }
     ]
