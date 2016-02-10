@@ -99,10 +99,6 @@
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRFC02-1024x768.jpg' target='_blank'>Belfort</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-43.22,-22.90]},
-          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_BRRJ01-1024x768.jpg' target='_blank'>Rio de Janeiro</a>"}
-      },
-      { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.03,46.96]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRBO03-1024x768.jpg' target='_blank'>Glux en Glenne</a>"}
       },
@@ -145,6 +141,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-1.75,43.37]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ03-1024x768.jpg' target='_blank'>Hendaye</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [26.1,44.41]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ROIF01-1024x768.jpg' target='_blank'>Bucureşti</a>"}
       }
     ]
 }
