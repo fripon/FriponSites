@@ -145,6 +145,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.1,44.41]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ROIF01-1024x768.jpg' target='_blank'>Bucureşti</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.02,48.93]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAL03-1024x768.jpg' target='_blank'>Sarralbe</a>"}
       }
     ]
 }
