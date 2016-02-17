@@ -67,7 +67,7 @@
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRNP01-1024x768.jpg' target='_blank'>Lille</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [0.59,44.80]},
+        "geometry": {"type": "Point", "coordinates": [-0.59,44.80]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ01-1024x768.jpg' target='_blank'>Talence</a>"}
       },
       { "type": "Feature",
@@ -87,7 +87,7 @@
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRBR04-1024x768.jpg' target='_blank'>Vannes</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-0.70,45.15]},
+        "geometry": {"type": "Point", "coordinates": [0.70,45.15]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRAQ06-1024x768.jpg' target='_blank'>Coulounieix</a>"}
       },
       { "type": "Feature",
