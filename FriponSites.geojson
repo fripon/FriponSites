@@ -153,6 +153,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.48,42.61]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCO01-1024x768.jpg' target='_blank'>Biguglia</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.06,47.31]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRBO01-1024x768.jpg' target='_blank'>Dijon</a>"}
       }
     ]
 }
