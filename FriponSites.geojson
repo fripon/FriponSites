@@ -165,6 +165,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.16,45.65]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPC02-1024x768.jpg' target='_blank'>Angoulême</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.44,48.18]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLO02-1024x768.jpg' target='_blank'>Epinal</a>"}
       }
     ]
 }
