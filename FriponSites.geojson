@@ -161,6 +161,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.90,45.16]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLI02-1024x768.jpg' target='_blank'>Saint Bonnet Elvert</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.16,45.65]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPC02-1024x768.jpg' target='_blank'>Angoulême</a>"}
       }
     ]
 }
