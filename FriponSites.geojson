@@ -169,6 +169,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [6.44,48.18]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRLO02-1024x768.jpg' target='_blank'>Epinal</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.36,51.00]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRNP02-1024x768.jpg' target='_blank'>Cappelle la Grande</a>"}
       }
     ]
 }
