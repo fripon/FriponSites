@@ -185,6 +185,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.91,48.62]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRCA02-1024x768.jpg' target='_blank'>Valcourt</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.42,46.20]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPC04-1024x768.jpg' target='_blank'>Marigny</a>"}
       }
     ]
 }
