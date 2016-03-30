@@ -189,6 +189,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-0.42,46.20]},
           "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRPC04-1024x768.jpg' target='_blank'>Marigny</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.82,43.92]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_FRMP06-1024x768.jpg' target='_blank'>Mauroux</a>"}
       }
     ]
 }
