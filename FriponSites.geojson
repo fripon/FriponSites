@@ -193,6 +193,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.82,43.92]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP06-1024x768.jpg' target='_blank'>Mauroux</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.99,50.28]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP04-1024x768.jpg' target='_blank'>Maubeuge</a>"}
       }
     ]
 }
