@@ -2,7 +2,7 @@
     "features": [
     { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-43.22,-22.90]},
-          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_BRRJ01-1024x768.jpg' target='_blank'>Rio de Janeiro</a>"}
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BRRJ01-1024x768.jpg' target='_blank'>Rio de Janeiro</a>"}
       },
       { "type": "Feature",
        "geometry": {"type": "Point", "coordinates": [55.41,-21.20]},
