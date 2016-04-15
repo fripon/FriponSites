@@ -201,6 +201,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.76,48.58]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL01.jpg' target='_blank'>Strasbourg</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.62,45.91]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA05.jpg' target='_blank'>Sutrieu</a>"}
       }
     ]
 }
