@@ -14,7 +14,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.14,42.93]},
-          "properties": {"Name":"<a href='http://www.fripon.org/fripon/IMG/jpg/stations/RT_FRMP01.jpg' target='_blank'>Pic du Midi</a>"}
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP01.jpg' target='_blank'>Pic du Midi</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.82,45.82]},
