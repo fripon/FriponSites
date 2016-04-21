@@ -209,6 +209,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.30,42.78]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP03.jpg' target='_blank'>Guzet Neige</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.30,42.47]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR06.jpg' target='_blank'>Mantet</a>"}
       }
     ]
 }
