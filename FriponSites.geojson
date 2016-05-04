@@ -213,6 +213,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.30,42.47]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR06.jpg' target='_blank'>Mantet</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.58,44.36]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP07.jpg' target='_blank'>Onet le Ch&acirc;teau</a>"}
       }
     ]
 }
