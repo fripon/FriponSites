@@ -217,6 +217,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.58,44.36]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP07.jpg' target='_blank'>Onet le Ch&acirc;teau</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.51,47.97]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBO02.jpg' target='_blank'>Migennes</a>"}
       }
     ]
 }
