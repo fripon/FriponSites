@@ -229,6 +229,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.61,50.76]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP03.jpg' target='_blank'>Wimereux</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-1.55,47.25]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPL01.jpg' target='_blank'>Nantes</a>"}
       }
     ]
 }
