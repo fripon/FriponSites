@@ -225,6 +225,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.92,44.88]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA09.jpg' target='_blank'>Beaumont les Valence</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.61,50.76]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP03.jpg' target='_blank'>Wimereux</a>"}
       }
     ]
 }
