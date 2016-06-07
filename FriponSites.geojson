@@ -237,6 +237,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.72,49.74]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA03.jpg' target='_blank'>Charleville Mézières</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.87,45.78]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA02.jpg' target='_blank'>Lyon</a>"}
       }
     ]
 }
