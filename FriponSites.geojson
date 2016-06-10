@@ -245,6 +245,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.44,44.45]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP05.jpg' target='_blank'>Cahors</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.96,45.77]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU01.jpg' target='_blank'>Puy de Dôme</a>"}
       }
     ]
 }
