@@ -249,6 +249,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.96,45.77]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU01.jpg' target='_blank'>Puy de Dôme</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.06,48.27]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA04.jpg' target='_blank'>Troyes</a>"}
       }
     ]
 }
