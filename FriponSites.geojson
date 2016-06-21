@@ -257,6 +257,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.05,45.13]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU02.jpg' target='_blank'>Saint Julien du Pinet</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.83,47.22]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE03.jpg' target='_blank'>Tauxigny</a>"}
       }
     ]
 }
