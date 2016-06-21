@@ -253,6 +253,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.06,48.27]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA04.jpg' target='_blank'>Troyes</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.05,45.13]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU02.jpg' target='_blank'>Saint Julien du Pinet</a>"}
       }
     ]
 }
