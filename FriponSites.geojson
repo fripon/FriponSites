@@ -261,6 +261,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.83,47.22]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE03.jpg' target='_blank'>Tauxigny</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.43,44.92]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU03.jpg' target='_blank'>Aurillac</a>"}
       }
     ]
 }
