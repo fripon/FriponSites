@@ -265,6 +265,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.43,44.92]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU03.jpg' target='_blank'>Aurillac</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-1.69,49.67]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO01.jpg' target='_blank'>Querqueville</a>"}
       }
     ]
 }
