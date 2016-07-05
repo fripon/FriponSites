@@ -269,6 +269,10 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-1.69,49.67]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO01.jpg' target='_blank'>Querqueville</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.66,46.63]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPL02.jpg' target='_blank'>Chapelle aux Lys</a>"}
       }
     ]
 }
