@@ -280,7 +280,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.12,43.84]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR05.jpg' target='_blank'>Carcassonne</a>"}
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR05.jpg' target='_blank'>Cailhavel</a>"}
       }
     ]
 }
