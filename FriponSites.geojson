@@ -279,7 +279,7 @@
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA01.jpg' target='_blank'>Grenoble</a>"}
       },
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [2.12,43.84]},
+        "geometry": {"type": "Point", "coordinates": [2.13,43.16]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR05.jpg' target='_blank'>Cailhavel</a>"}
       },
        { "type": "Feature",
