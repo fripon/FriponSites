@@ -38,7 +38,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.85,45.21]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIPON.jpg' target='_blank'>Le Versoud</a>"}
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA10.jpg' target='_blank'>Le Versoud</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.18,48.70]},
