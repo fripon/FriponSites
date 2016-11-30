@@ -285,6 +285,10 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.1655706,45.9554738]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLI03.jpg' target='_blank'>Aubusson</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.137616667,43.918694444]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP04.jpg' target='_blank'>Albi</a>"}
       }
     ]
 }
