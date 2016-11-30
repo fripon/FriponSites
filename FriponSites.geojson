@@ -289,6 +289,10 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.137616667,43.918694444]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP04.jpg' target='_blank'>Albi</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.084444,49.44722]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO05.jpg' target='_blank'>Rouen</a>"}
       }
     ]
 }
