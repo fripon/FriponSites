@@ -297,6 +297,10 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.857106,46.776205]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBO05.jpg' target='_blank'>Chalon-sur-Saône</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.600621667,47.482483333]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPL03.jpg' target='_blank'>Angers</a>"}
       }
     ]
 }
