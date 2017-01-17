@@ -29,7 +29,7 @@
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA03.jpg' target='_blank'>Obs. de Haute Provence</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [4.753633333,43.96165]},
+        "geometry": {"type": "Point", "coordinates": [4.75365827246336,43.961583430777]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA07.jpg' target='_blank'>Les Angles</a>"}
       },
       { "type": "Feature",
@@ -45,11 +45,11 @@
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF04.jpg' target='_blank'>Orsay</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [5.098177,43.642751]},
+        "geometry": {"type": "Point", "coordinates": [5.09830200605171,43.6427648345065]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA08.jpg' target='_blank'>Salon de Provence</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [5.419333333,43.490666667]},
+        "geometry": {"type": "Point", "coordinates": [5.33397059667823,43.4913182005546]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA02.jpg' target='_blank'>Aix en Provence</a>"}
       },
       { "type": "Feature",
@@ -135,7 +135,7 @@
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP05.jpg' target='_blank'>Arras</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [6.6422166667,44.39005]},
+        "geometry": {"type": "Point", "coordinates": [6.64221670088842,44.3900550617724]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA04.jpg' target='_blank'>Barcelonette</a>"}
       },
       { "type": "Feature",
@@ -151,7 +151,7 @@
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL03.jpg' target='_blank'>Sarralbe</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [9.4808,42.61685]},
+        "geometry": {"type": "Point", "coordinates": [9.47984829790867,42.6167868564871]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO01.jpg' target='_blank'>Biguglia</a>"}
       },
       { "type": "Feature",
@@ -175,7 +175,7 @@
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP02.jpg' target='_blank'>Cappelle la Grande</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [9.2713,41.5997]},
+        "geometry": {"type": "Point", "coordinates": [9.271201,41.599729]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO02.jpg' target='_blank'>Porto Vecchio</a>"}
       },
       { "type": "Feature",
