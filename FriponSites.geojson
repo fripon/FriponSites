@@ -329,6 +329,10 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-1.048806,45.638987]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPC03.jpg' target='_blank'>Royan</a>"}
-      }
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.03678,45.9964]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA07.jpg' target='_blank'>Roanne</a>"}
+      } 
     ]
 }
