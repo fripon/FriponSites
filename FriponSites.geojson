@@ -334,9 +334,13 @@
         "geometry": {"type": "Point", "coordinates": [4.03678,45.9964]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA07.jpg' target='_blank'>Roanne</a>"}
       },
-         { "type": "Feature",
+       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.357075,40.796728]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEBR01.jpg.jpg' target='_blank'>Bruxelles </a>"}
-      } 
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.1956833, 47.3678667]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE02.jpg' target='_blank'>Nan&ccedil;ay</a>"}
+      }
     ]
 }
