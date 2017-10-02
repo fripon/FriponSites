@@ -332,7 +332,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.03678,45.9964]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA07.jpg' target='_blank'>Roanne</a>"}
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA07.jpg' target='_blank'>Villerest</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.357075,50.796728]},
