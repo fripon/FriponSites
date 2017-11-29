@@ -349,6 +349,10 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.7206931, 49.7384567]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCA03.jpg' target='_blank'>Charleville-mézières</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.1555, 48.6559277]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO01.jpg' target='_blank'>Nancy</a>"}
       }
     ]
 }
