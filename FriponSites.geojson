@@ -353,6 +353,10 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [6.1555, 48.6559277]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO01.jpg' target='_blank'>Nancy</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.746165, 44.149088]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ02.jpg' target='_blank'>Sabres</a>"}
       }
     ]
 }
