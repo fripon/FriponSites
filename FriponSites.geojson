@@ -357,6 +357,11 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-0.746165, 44.149088]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ02.jpg' target='_blank'>Sabres</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 8.183140,  53.147244]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
       }
+        
     ]
 }
