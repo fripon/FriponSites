@@ -345,6 +345,10 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [3.53767, 51.57192]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLZH02.jpg' target='_blank'>Oostkapelle</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.7206931, 49.7384567]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCA03.jpg' target='_blank'>Charleville-mézières</a>"}
       }
     ]
 }
