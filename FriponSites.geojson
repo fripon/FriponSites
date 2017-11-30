@@ -441,6 +441,10 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [17.147777,  40.875611]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU01.jpg' target='_blank'>Castellana Grotte</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [14.016666  37.9375]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI01.jpg' target='_blank'>Isnello</a>"}
       }
         
         
