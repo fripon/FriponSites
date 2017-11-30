@@ -372,7 +372,7 @@
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
-          "properties": {"Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_day.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
+          "properties": {"Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_stack.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
