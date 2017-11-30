@@ -395,7 +395,7 @@
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER06.jpg' target='_blank'>Scandiano </a>"}
       },
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  13.104741,   41.656789°]},
+        "geometry": {"type": "Point", "coordinates": [13.104741,   41.656789]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLA02.jpg' target='_blank'>Gorga </a>"}
       }
         
