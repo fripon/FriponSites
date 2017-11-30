@@ -370,6 +370,9 @@
         "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
           "properties": {"Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_day.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
       },
+        
+        / ITALIA
+        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP01.jpg' target='_blank'>Napoli </a>"}
@@ -408,7 +411,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.5825,  45.718833333]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Brembate di Sopra </a>"}
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO01.jpg' target='_blank'>Brembate di Sopra </a>"}
       }
         
     ]
