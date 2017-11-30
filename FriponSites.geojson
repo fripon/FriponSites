@@ -371,7 +371,7 @@
           "properties": {"Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_day.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
       },
         
-        // ITALIA
+"_comment": "ITALIA", 
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
