@@ -437,7 +437,13 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.618194444,  44.923833333]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI05.jpg' target='_blank'>Alessandria</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [17.147777,  40.875611]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU01.jpg' target='_blank'>Castellana Grotte</a>"}
       }
+        
+        
         
         
         
