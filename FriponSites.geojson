@@ -367,13 +367,35 @@
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO03.jpg' target='_blank'>Homecourt</a>"}
       },
        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
+          "properties": {"Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_day.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
+      },
+       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP01.jpg' target='_blank'>Napoli </a>"}
       },
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
-          "properties": {"Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_day.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
+        "geometry": {"type": "Point", "coordinates": [ 11.3324232,  44.2557684]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER01.jpg' target='_blank'>Loiano </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 11.64472222,  44.52444444]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER03.jpg' target='_blank'>Medicinao </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 9.632487,  44.507693]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER04.jpg' target='_blank'>Bedonia </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 9.72503,  45.035376]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER05.jpg' target='_blank'>Piacenza </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 10.657597222,  44.591002778]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER06.jpg' target='_blank'>Scandiano </a>"}
       }
+        
+        
         
     ]
 }
