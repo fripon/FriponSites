@@ -460,7 +460,15 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.86854083, 45.4019454 ]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Padova</a>"}
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE01.jpg' target='_blank'>Padova</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.795048, 45.081666 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Rovigo</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.56834296, 45.84941781 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Asiago</a>"}
       }
         
         
