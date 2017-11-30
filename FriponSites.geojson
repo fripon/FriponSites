@@ -399,7 +399,7 @@
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLA02.jpg' target='_blank'>Gorga </a>"}
       },
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [8.936111111,   44.9]},
+        "geometry": {"type": "Point", "coordinates": [8.936111111, 44.9]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI01.jpg' target='_blank'>Genova </a>"}
       }
         
