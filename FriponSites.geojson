@@ -404,9 +404,12 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.326975,  44.178546]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>FinaleLigure </a>"}
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Finale Ligure </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.5825,  45.718833333]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Brembate di Sopra </a>"}
       }
-        
         
     ]
 }
