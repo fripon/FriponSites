@@ -425,7 +425,21 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.5825,  45.718833333]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO01.jpg' target='_blank'>Brembate di Sopra </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.541148,  44.385146]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI02.jpg' target='_blank'>Cuneo</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.437222,  44.9125]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI03.jpg' target='_blank'>Felezzano</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.618194444,  44.923833333]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI05.jpg' target='_blank'>Alessandria</a>"}
       }
+        
+        
         
     ]
 }
