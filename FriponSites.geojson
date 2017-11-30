@@ -368,8 +368,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP01.jpg' target='_blank'>Napoli </a>"
-                        Test}
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP01.jpg' target='_blank'>Napoli </a>"}
       }
         
     ]
