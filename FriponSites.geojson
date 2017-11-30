@@ -359,19 +359,24 @@
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ02.jpg' target='_blank'>Sabres</a>"}
       },
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
-      },
-       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 5.995933, 49.214166 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO03.jpg' target='_blank'>Homecourt</a>"}
       },
+        
+        
+        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
           "properties": {"Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_day.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
       },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
+      },
         
-"comment": "ITALIA", 
+        
+        
+        
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
