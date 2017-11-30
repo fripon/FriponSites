@@ -445,6 +445,14 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [14.016666,  37.9375]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI01.jpg' target='_blank'>Isnello</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [10.804167,  44.063056]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO01.jpg' target='_blank'> San Marcello Pistoiese </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [10.491633,  43.6832]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO02.jpg' target='_blank'>Navacchio</a>"}
       }
         
         
