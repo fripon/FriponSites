@@ -359,7 +359,7 @@
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ02.jpg' target='_blank'>Sabres</a>"}
       },
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 8.183140,  53.147244]},
+        "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
       },
        { "type": "Feature",
@@ -368,7 +368,8 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP01.jpg' target='_blank'>Napoli</a>"}
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP01.jpg' target='_blank'>Napoli </a>"
+                        Test}
       }
         
     ]
