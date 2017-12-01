@@ -1,2 +1,2 @@
 # FriponSites
-The list of Fripon sites up and running
+The list of e-Fripon sites up and running
