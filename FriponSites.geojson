@@ -350,10 +350,14 @@
         "geometry": {"type": "Point", "coordinates": [ 5.995933, 49.214166 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO03.jpg' target='_blank'>Homecourt</a>"}
       },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 2.336733, 48.836595 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRIF02.jpg' target='_blank'>Observatoire de Paris</a>"}
+      },
         
         
         
-        
+    
        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
