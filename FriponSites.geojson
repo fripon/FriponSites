@@ -354,6 +354,11 @@
         "geometry": {"type": "Point", "coordinates": [ 2.336733, 48.836595 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRIF02.jpg' target='_blank'>Observatoire de Paris</a>"}
       },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -1.674733, 48.105705 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRBR02.jpg' target='_blank'>Rennes</a>"}
+      },
+       
         
         
         
