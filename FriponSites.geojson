@@ -358,6 +358,10 @@
         "geometry": {"type": "Point", "coordinates": [ -1.674733, 48.105705 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRBR02.jpg' target='_blank'>Rennes</a>"}
       },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -3,52694, 48,78361 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRBR03.jpg' target='_blank'>Pleumeur Bodou</a>"}
+      },
        
         
         
