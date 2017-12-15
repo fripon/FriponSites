@@ -362,6 +362,10 @@
         "geometry": {"type": "Point", "coordinates": [ -3.52694, 48.78361 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRBR03.jpg' target='_blank'>Pleumeur Bodou</a>"}
       },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 3.865493, 43.632701 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLR01.jpg' target='_blank'>Montpellier</a>"}
+      },
        
         
         
