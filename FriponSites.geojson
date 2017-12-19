@@ -366,7 +366,10 @@
         "geometry": {"type": "Point", "coordinates": [ 3.865493, 43.632701 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLR01.jpg' target='_blank'>Montpellier</a>"}
       },
-       
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 0.644889, 44.687627 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ07.jpg' target='_blank'>Cavarc</a>"}
+      },
         
         
         
