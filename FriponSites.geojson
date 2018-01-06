@@ -518,8 +518,21 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
           "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-6.png' target='_blank'>București</a>"}
-      }
+      },
         
+          
+        
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3,21861,50,68777]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Norman-Lockyer</a>"}
+      },
+        
+        
+        
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7,4206861,47,35174]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHJU01.jpg' target='_blank'>Vicques</a>"}
+      }
         
         
     ]
