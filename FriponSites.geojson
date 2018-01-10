@@ -402,6 +402,10 @@
         "geometry": {"type": "Point", "coordinates": [ 11.720225,  48.545182]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY02.jpg' target='_blank'>Seysdorf </a>"}
       },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  10.486876,   48.853913]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY01.jpg' target='_blank'>Nordlingen </a>"}
+      },
         
                 
         
