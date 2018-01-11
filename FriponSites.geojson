@@ -406,6 +406,10 @@
         "geometry": {"type": "Point", "coordinates": [  10.486876,   48.853913]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY01.jpg' target='_blank'>Nordlingen </a>"}
       },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  13.758098,    48.823929]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY03.jpg' target='_blank'>Haidmühle </a>"}
+      },
         
                 
         
