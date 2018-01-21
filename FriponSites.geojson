@@ -501,7 +501,15 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.56834296, 45.84941781 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Asiago</a>"}
+      }, { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.2580555, 44.8271 ]}, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI04.jpg' target='_blank'>Luserna san Giovanni</a>"}
       },
+        
+        
+        
+        
+        
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.5937148, 46.7102406]},
