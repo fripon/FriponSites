@@ -370,7 +370,10 @@
         "geometry": {"type": "Point", "coordinates": [ 0.644889, 44.687627 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ07.jpg' target='_blank'>Cavarc</a>"}
       },
-        
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -0.546269,  48.268297 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO04.jpg' target='_blank'>Bellou le Trichard</a>"}
+      }, 
         
         
     
