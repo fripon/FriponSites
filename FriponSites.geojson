@@ -378,6 +378,11 @@
         "geometry": {"type": "Point", "coordinates": [ -1.446223,   48.663645 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO06.jpg' target='_blank'>Vains</a>"}
       }, 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -0.742004,   42.974579 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ05.jpg' target='_blank'>Arette - Pierre Saint Martin</a>"}
+      }, 
+        
         
         
     
