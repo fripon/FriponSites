@@ -383,7 +383,7 @@
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ05.jpg' target='_blank'>Arette - Pierre Saint Martin</a>"}
       },  
         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  0,16392777,   48,0157027 ]},
+        "geometry": {"type": "Point", "coordinates": [  0.16392777,   48.0157027 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRPL05.jpg' target='_blank'>Le Mans</a>"}
       }, 
         
