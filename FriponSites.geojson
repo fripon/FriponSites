@@ -308,7 +308,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-0.366872222,49.192327778]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO06.jpg' target='_blank'>Caen</a>"}
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO03.jpg' target='_blank'>Caen</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.479213889,43.562141667]},
