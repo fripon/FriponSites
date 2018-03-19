@@ -371,7 +371,7 @@
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ07.jpg' target='_blank'>Cavarc</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 0,64692777, 48,1854166 ]},
+        "geometry": {"type": "Point", "coordinates": [ 0.64692777, 48.1854166 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO04.jpg' target='_blank'>La Ferté Bernard</a>"}
       }, 
          { "type": "Feature",
