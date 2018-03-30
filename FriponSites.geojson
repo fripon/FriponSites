@@ -1,6 +1,6 @@
 { "type": "FeatureCollection", 
     "features": [
-      { "type": "Feature", "color":"#ffb6c1", 
+      { "type": "Feature", "color":"#ff0000", 
         "geometry": {"type": "Point", "coordinates": [2.7422,48.742683]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
       },
