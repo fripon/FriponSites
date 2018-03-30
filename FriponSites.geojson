@@ -391,10 +391,10 @@
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO01.jpg' target='_blank'>Nancy</a>"}
       }, 
         
-    {"marker-color":"#FF0"}
+   
        
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
+        "geometry": {"type": "Point", "marker-color":"#FF0", "coordinates": [4.418402778,52.218752778]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLZH01.jpg' target='_blank'>Noordwijk</a>"}
       },
       
