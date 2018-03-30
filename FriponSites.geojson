@@ -42,7 +42,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.1794019,48.7063942]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF04.jpg' target='_blank'>Orsay</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF04.jpg' target='_blank'>Orsay</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.09830200605171,43.6427648345065]},
@@ -64,15 +64,15 @@
       
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [3.070833,50.615833]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP01.jpg' target='_blank'>Lille</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP01.jpg' target='_blank'>Lille</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-0.593,44.807861]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ01.jpg' target='_blank'>Talence</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ01.jpg' target='_blank'>Talence</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.97725190000006,43.1891644]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR03.jpg' target='_blank'>Narbonne</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR03.jpg' target='_blank'>Narbonne</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.532777778,48.579722222]},
@@ -92,7 +92,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-1.030453,43.693376]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ04.jpg' target='_blank'>Dax</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ04.jpg' target='_blank'>Dax</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [6.865164,47.64085]},
