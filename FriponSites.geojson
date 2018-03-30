@@ -152,7 +152,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.47984829790867,42.6167868564871]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO01.jpg' target='_blank'>Biguglia</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO01.jpg' target='_blank'>Biguglia</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.065306,47.315964]},
@@ -196,11 +196,11 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.762943,48.579815]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL01.jpg' target='_blank'>Strasbourg</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL01.jpg' target='_blank'>Strasbourg</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.626388889,45.915555556]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA05.jpg' target='_blank'>Sutrieu</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA05.jpg' target='_blank'>Sutrieu</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.300216,42.787796]},
@@ -304,15 +304,15 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-4.504675,48.408680556]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBR01.jpg' target='_blank'>Brest</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBR01.jpg' target='_blank'>Brest</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-0.366872222,49.192327778]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO03.jpg' target='_blank'>Caen</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO03.jpg' target='_blank'>Caen</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.479213889,43.562141667]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP02.jpg' target='_blank'>Toulouse</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP02.jpg' target='_blank'>Toulouse</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.567500556,48.756330833]},
@@ -328,11 +328,11 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.357075,50.796728]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEBR01.jpg' target='_blank'>Bruxelles</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEBR01.jpg' target='_blank'>Bruxelles</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.1956833, 47.3678667]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE02.jpg' target='_blank'>Nan&ccedil;ay</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE02.jpg' target='_blank'>Nan&ccedil;ay</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.7206931, 49.7384567]},
