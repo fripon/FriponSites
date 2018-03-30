@@ -560,27 +560,27 @@
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.5937148, 46.7102406]},
-          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-1.png' target='_blank'>Feleac</a>"}
+          "properties": {"marker-color": "#0000cc","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-1.png' target='_blank'>Feleac</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [22.8850633,45.6134068]},
-          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-2.png' target='_blank'>Berthelot</a>"}
+          "properties": {"marker-color": "#0000cc","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-2.png' target='_blank'>Berthelot</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.0751838,46.6609761]},
-          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-3.png' target='_blank'>Mărișel</a>"}
+          "properties": {"marker-color": "#0000cc","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-3.png' target='_blank'>Mărișel</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [25.9625392, 45.0027304]},
-          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-4.png' target='_blank'>Păulești</a>"}
+          "properties": {"marker-color": "#0000cc","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-4.png' target='_blank'>Păulești</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [21.2307929,45.7380603]},
-          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-5.png' target='_blank'>Timișoara</a>"}
+          "properties": {"marker-color": "#0000cc","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-5.png' target='_blank'>Timișoara</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
-          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-6.png' target='_blank'>București</a>"}
+          "properties": {"marker-color": "#0000cc","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-6.png' target='_blank'>București</a>"}
       },
         
           
