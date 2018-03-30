@@ -435,26 +435,26 @@
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
-          "properties": {"Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_stack.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_stack.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 11.720225,  48.545182]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY02.jpg' target='_blank'>Seysdorf </a>"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY02.jpg' target='_blank'>Seysdorf </a>"}
       },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  10.486876,   48.853913]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY01.jpg' target='_blank'>Nordlingen </a>"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY01.jpg' target='_blank'>Nordlingen </a>"}
       },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  13.758098,    48.823929]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY03.jpg' target='_blank'>Haidmühle </a>"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY03.jpg' target='_blank'>Haidmühle </a>"}
       },  { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  12.631277,    52.495]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBB01.jpg' target='_blank'>Ketzür </a>"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBB01.jpg' target='_blank'>Ketzür </a>"}
       },
         
         
