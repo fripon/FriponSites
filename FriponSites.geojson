@@ -467,35 +467,35 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP01.jpg' target='_blank'>Napoli </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP01.jpg' target='_blank'>Napoli </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 11.3324232,  44.2557684]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER01.jpg' target='_blank'>Loiano </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER01.jpg' target='_blank'>Loiano </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 11.64472222,  44.52444444]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER03.jpg' target='_blank'>Medicinao </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER03.jpg' target='_blank'>Medicinao </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 9.632487,  44.507693]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER04.jpg' target='_blank'>Bedonia </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER04.jpg' target='_blank'>Bedonia </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 9.72503,  45.035376]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER05.jpg' target='_blank'>Piacenza </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER05.jpg' target='_blank'>Piacenza </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 10.657597222,  44.591002778]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER06.jpg' target='_blank'>Scandiano </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER06.jpg' target='_blank'>Scandiano </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [13.104741,   41.656789]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLA02.jpg' target='_blank'>Gorga </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLA02.jpg' target='_blank'>Gorga </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.936111111, 44.9]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI01.jpg' target='_blank'>Genova </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI01.jpg' target='_blank'>Genova </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.326975,  44.178546]},
@@ -503,54 +503,54 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.5825,  45.718833333]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO01.jpg' target='_blank'>Brembate di Sopra </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO01.jpg' target='_blank'>Brembate di Sopra </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.541148,  44.385146]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI02.jpg' target='_blank'>Cuneo</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI02.jpg' target='_blank'>Cuneo</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.437222,  44.9125]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI03.jpg' target='_blank'>Felezzano</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI03.jpg' target='_blank'>Felezzano</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.618194444,  44.923833333]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI05.jpg' target='_blank'>Alessandria</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI05.jpg' target='_blank'>Alessandria</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [17.147777,  40.875611]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU01.jpg' target='_blank'>Castellana Grotte</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU01.jpg' target='_blank'>Castellana Grotte</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [14.016666,  37.9375]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI01.jpg' target='_blank'>Isnello</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI01.jpg' target='_blank'>Isnello</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [10.804167,  44.063056]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO01.jpg' target='_blank'> San Marcello Pistoiese </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO01.jpg' target='_blank'> San Marcello Pistoiese </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [10.491633,  43.6832]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO02.jpg' target='_blank'>Navacchio</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO02.jpg' target='_blank'>Navacchio</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.4783333,  45.7898611]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVA02.jpg' target='_blank'>Lignan</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVA02.jpg' target='_blank'>Lignan</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.86854083, 45.4019454 ]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE01.jpg' target='_blank'>Padova</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE01.jpg' target='_blank'>Padova</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.795048, 45.081666 ]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Rovigo</a>"}
+          "properties": {"marker-color": "#00aa00","marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Rovigo</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.56834296, 45.84941781 ]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Asiago</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Asiago</a>"}
       }, { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.2580555, 44.8271 ]}, 
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI04.jpg' target='_blank'>Luserna san Giovanni</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI04.jpg' target='_blank'>Luserna san Giovanni</a>"}
       },
         
         
