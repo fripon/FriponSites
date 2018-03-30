@@ -6,11 +6,11 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.943706,47.836378]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE01.jpg' target='_blank'>Orléans</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE01.jpg' target='_blank'>Orléans</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.736828,42.024775]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA01.jpg' target='_blank'>Mont Sec</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA01.jpg' target='_blank'>Montsec</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.1427778,42.936388889]},
@@ -18,11 +18,11 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.819922222,45.823080556]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLI01.jpg' target='_blank'>Rochechouart</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLI01.jpg' target='_blank'>Rochechouart</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [16.359753,48.20525]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ATWI01.jpg' target='_blank'>Wien</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ATWI01.jpg' target='_blank'>Wien</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.71475,43.933005556]},
@@ -34,7 +34,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.436338889,43.343625]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA01.jpg' target='_blank'>Marseille</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA01.jpg' target='_blank'>Marseille</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.850992,45.211736]},
