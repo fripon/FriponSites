@@ -390,6 +390,15 @@
         "geometry": {"type": "Point", "coordinates": [  6.15532,   48.655895 ]}, 
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO01.jpg' target='_blank'>Nancy</a>"}
       }, 
+        
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -1.727918,   49.630688 ]}, 
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO07.jpg' target='_blank'>Ludiver</a>"}
+      }, 
+         
+        
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -3.15393,   47.30337 ]}, 
           "properties": {"marker-color": "#aa0000","Name":"Belle Ile (radio) "}    }
