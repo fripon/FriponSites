@@ -587,7 +587,7 @@
         
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-3.21861,50.68777]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Norman-Lockyer</a>"}
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Norman-Lockyer</a>"}
       },
         
         
