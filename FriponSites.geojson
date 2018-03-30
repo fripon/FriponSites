@@ -463,7 +463,7 @@
       
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.764905,45.041209]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITPI01.jpg' target='_blank'>Pino Torinese</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITPI01.jpg' target='_blank'>Pino Torinese</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
