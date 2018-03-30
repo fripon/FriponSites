@@ -594,7 +594,7 @@
         
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.4206861,47.35174]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHJU01.jpg' target='_blank'>Vicques</a>"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHJU01.jpg' target='_blank'>Vicques</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  7.612612, 46.228230]},
