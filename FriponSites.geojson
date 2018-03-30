@@ -420,12 +420,12 @@
        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLZH01.jpg' target='_blank'>Noordwijk</a>"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLZH01.jpg' target='_blank'>Noordwijk</a>"}
       },
       
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [3.53767, 51.57192]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLZH02.jpg' target='_blank'>Oostkapelle</a>"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLZH02.jpg' target='_blank'>Oostkapelle</a>"}
       },
         
         
