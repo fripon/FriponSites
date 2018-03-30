@@ -2,7 +2,7 @@
     "features": [
     { "type": "Feature", 
         "geometry": {"type": "Point",  "coordinates": [2.7422,48.742683]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
+          "properties": {"marker-color": "#80ff00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.943706,47.836378]},
