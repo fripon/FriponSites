@@ -490,7 +490,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.326975,  44.178546]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Finale Ligure </a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Finale Ligure </a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.5825,  45.718833333]},
@@ -534,7 +534,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.795048, 45.081666 ]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Rovigo</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Rovigo</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.56834296, 45.84941781 ]},
@@ -589,7 +589,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  7.612612, 46.228230]},
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHVA01.jpg' target='_blank'>Saint Luc</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHVA01.jpg' target='_blank'>Saint Luc</a>"}
       }
         
         
