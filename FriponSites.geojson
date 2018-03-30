@@ -2,7 +2,7 @@
     "features": [
     { "type": "Feature", 
         "geometry": {"type": "Point",  "coordinates": [2.7422,48.742683]},
-          "properties": {"marker-color": "#80ff00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.943706,47.836378]},
@@ -390,7 +390,15 @@
         "geometry": {"type": "Point", "coordinates": [  6.15532,   48.655895 ]}, 
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO01.jpg' target='_blank'>Nancy</a>"}
       }, 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -3.15393,   47.30337 ]}, 
+          "properties": {"marker-color": "#aa0000","Name":"Belle Ile (radio) "}    }
+        , 
         
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  1.72589444,   44.74489722 ]}, 
+          "properties": {"marker-color": "#aa0000","Name":"Gramat (radio)"}    }
+        , 
    
        
        { "type": "Feature",
