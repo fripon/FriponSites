@@ -399,6 +399,14 @@
         "geometry": {"type": "Point", "coordinates": [  1.72589444,   44.74489722 ]}, 
           "properties": {"marker-color": "#aa0000","Name":"Gramat (radio)"}    }
         , 
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  5.5136,   47.3477 ]}, 
+          "properties": {"marker-color": "#ff00ff","Name":"Radar GRAVES"}    }
+        , 
+        
+        
+        
    
        
        { "type": "Feature",
