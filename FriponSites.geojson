@@ -1,6 +1,6 @@
-{ "type": "FeatureCollection",
+{ "type": "FeatureCollection", 
     "features": [
-      { "type": "Feature",
+      { "type": "Feature", "color":"#ffb6c1", 
         "geometry": {"type": "Point", "coordinates": [2.7422,48.742683]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
       },
@@ -394,7 +394,7 @@
    
        
        { "type": "Feature",
-        "geometry": {"type": "Point", "color": #F00, "coordinates": [4.418402778,52.218752778]},
+        "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLZH01.jpg' target='_blank'>Noordwijk</a>"}
       },
       
