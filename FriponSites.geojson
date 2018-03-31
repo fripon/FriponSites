@@ -404,15 +404,24 @@
         "geometry": {"type": "Point", "coordinates": [  5.5136,   47.3477 ]}, 
           "properties": {"marker-color": "#ff00ff","Name":"Radar GRAVES"} } , 
      
-         { "type": "Feature",
+        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  3.323283,   49.835909 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Saint Quentin"}
-      },    
+          "properties": {"marker-color": "#222222","Name":"Saint Quentin"} },    
         
-    { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  2.300104,   49.899156 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Amiens"}
-      },   
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.798909,   49.399648 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Compiègne"}  },  
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.299466,   49.89907 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Amiens"}  },  
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  0.380771,   46.565781 ]}, 
+          "properties": {"marker-color": "#222222","Name":"poitiers"}  }, 
+     
+        
+        
         
        
         
