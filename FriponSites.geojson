@@ -419,6 +419,10 @@
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  0.380771,   46.565781 ]}, 
           "properties": {"marker-color": "#222222","Name":"poitiers"}  }, 
+       
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  6.670585,   45.144199 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Punta Bagna"}  }, 
      
         
         
