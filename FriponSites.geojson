@@ -423,6 +423,10 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  6.670585,   45.144199 ]}, 
           "properties": {"marker-color": "#222222","Name":"Punta Bagna"}  }, 
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  5.908046,   44.63443 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Pic de Bure"}  }, 
      
         
         
