@@ -435,8 +435,10 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.43812,    48.291782 ]}, 
           "properties": {"marker-color": "#222222","Name":"Buthiers"}  }, 
-        
-        
+      
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  4.390615,    44.620755 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Aubenas"}  }, 
        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
