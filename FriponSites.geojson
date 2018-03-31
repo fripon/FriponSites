@@ -443,10 +443,13 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -0.566559,    48.750306 ]}, 
           "properties": {"marker-color": "#222222","Name":"Flers"}  }, 
+       
+          { "type": "Feature", 
+        "geometry": {"type": "Point", "coordinates": [  1.986091,    46.582966 ]}, 
+          "properties": {"marker-color": "#222222","Name":"La Châtre"}  }, 
         
         
-        
-        
+
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLZH01.jpg' target='_blank'>Noordwijk</a>"}
