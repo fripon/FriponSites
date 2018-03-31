@@ -406,10 +406,17 @@
      
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  3.323283,   49.835909 ]}, 
-          "properties": {"marker-color": "#000066","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO07.jpg' target='_blank'>Saint Quentin</a>"}
+          "properties": {"marker-color": "#222222","Name":"Saint Quentin"}
       },    
         
-   
+    { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.300104,   49.899156 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Amiens"}
+      },   
+        
+       
+        
+        
        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
@@ -420,8 +427,8 @@
         "geometry": {"type": "Point", "coordinates": [3.53767, 51.57192]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLZH02.jpg' target='_blank'>Oostkapelle</a>"}
       },
-        
-        
+       
+      
         
         
         
