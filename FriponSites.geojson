@@ -426,9 +426,11 @@
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  5.908228,   44.634159 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Pic de Bure"}  }, 
-     
-        
+           "properties": {"marker-color": "#222222","Name":"Pic de Bure"}  }, 
+    
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  8.80435,    41.897825 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Ajaccio"}  }, 
         
        
         
