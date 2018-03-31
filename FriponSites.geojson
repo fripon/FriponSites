@@ -441,9 +441,9 @@
           "properties": {"marker-color": "#222222","Name":"Aubenas"}  }, 
       
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -0.566559,    48.750306 ]}, 
+        "geometry": {"type": "Point", "coordinates": [  -0.48194,    48.765 ]}, 
           "properties": {"marker-color": "#222222","Name":"Flers"}  }, 
-       
+
           { "type": "Feature", 
         "geometry": {"type": "Point", "coordinates": [  1.986091,    46.582966 ]}, 
           "properties": {"marker-color": "#222222","Name":"La Châtre"}  }, 
