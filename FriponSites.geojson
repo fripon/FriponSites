@@ -490,7 +490,7 @@
       },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  10.486876,   48.853913]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY01.jpg' target='_blank'>Nordlingen </a>"}
+          "properties": {"marker-color": "#222222","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY01.jpg' target='_blank'>Nordlingen </a>"}
       },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  13.758098,    48.823929]},
