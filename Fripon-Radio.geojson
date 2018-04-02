@@ -39,7 +39,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-1.030453,43.693376]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ04.jpg' target='_blank'>FRAQ01 - Dax</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ04.jpg' target='_blank'>FRAQ04 - Dax</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.47984829790867,42.6167868564871]},
