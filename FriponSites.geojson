@@ -323,10 +323,7 @@
         "geometry": {"type": "Point", "coordinates": [4.03678,45.9964]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA07.jpg' target='_blank'>Villerest</a>"}
       },
-       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [4.357075,50.796728]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEBR01.jpg' target='_blank'>Bruxelles</a>"}
-      },
+      
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.1956833, 47.3678667]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE02.jpg' target='_blank'>Nan&ccedil;ay</a>"}
@@ -458,7 +455,13 @@
         
         
         
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.357075,50.796728]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEBR01.jpg' target='_blank'>Bruxelles</a>"} },
         
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.565467,50.582154]},
+          "properties": {"marker-color": "#222222","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEWA01.jpg' target='_blank'>Liège</a>"} },
 
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
@@ -466,8 +469,7 @@
       
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [3.53767, 51.57192]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLZH02.jpg' target='_blank'>Oostkapelle</a>"}
-      },
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLZH02.jpg' target='_blank'>Oostkapelle</a>"}},
        
       
         
