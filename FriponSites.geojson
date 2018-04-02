@@ -8,10 +8,7 @@
         "geometry": {"type": "Point", "coordinates": [1.943706,47.836378]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE01.jpg' target='_blank'>Orléans</a>"}
       },
-      { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [0.736828,42.024775]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA01.jpg' target='_blank'>Montsec</a>"}
-      },
+    
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.1427778,42.936388889]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP01.jpg' target='_blank'>Pic du Midi</a>"}
@@ -449,11 +446,23 @@
           "properties": {"marker-color": "#222222","Name":"La Châtre"}  }, 
         
         
+        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.736828,42.024775]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA01.jpg' target='_blank'>Montsec</a>"}},
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.118757,41.392045]},
+          "properties": {"marker-color": "#222222","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA02.jpg' target='_blank'>Barcelona</a>"}},
+        
+        
+        
+        
+        
 
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLZH01.jpg' target='_blank'>Noordwijk</a>"}
-      },
+          "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLZH01.jpg' target='_blank'>Noordwijk</a>"}},
       
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [3.53767, 51.57192]},
