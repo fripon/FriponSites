@@ -610,9 +610,21 @@
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.428627276721159, 45.7038613244967353 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO04.jpg' target='_blank'>Merate</a>"}},
-       
-       
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.42556231813739, 45.32744623278966 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Vercelli"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.98121940689395, 46.188211749908056 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Ponte Valtellina"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.14333474235843, 46.0647400100266 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Trente"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [12.0317252834350943, 46.28418375737004 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Agordo"}},
+     
         
+   
         
         
          { "type": "Feature",
