@@ -637,8 +637,15 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [12.647399540713536, 41.83864704831213]}, 
           "properties": {"marker-color": "#222222","Name":"Roma"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [13.06606353419135, 43.13476083317582]}, 
+          "properties": {"marker-color": "#222222","Name":"Camerino"}},
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.2463141341717125, 43.52352816765794]}, 
+          "properties": {"marker-color": "#222222","Name":"Chiantio"}},
        
-  
+       
+
         
         
          { "type": "Feature",
