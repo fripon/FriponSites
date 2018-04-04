@@ -537,9 +537,10 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLA02.jpg' target='_blank'>Gorga </a>"}
       },
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [8.936111111, 44.9]},
-          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI01.jpg' target='_blank'>Genova </a>"}
+        "geometry": {"type": "Point", "coordinates": [9.08404157150, 44.81243685812243]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI03.jpg' target='_blank'>Cecima </a>"}
       },
+        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.326975,  44.178546]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Finale Ligure </a>"}
