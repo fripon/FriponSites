@@ -597,9 +597,15 @@
       },{ "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [13.2991430966919, 38.187447618061641 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI02.jpg' target='_blank'>Palermo</a>"}},
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [13.8542658149, 45.6422230180758251 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITFV01.jpg' target='_blank'>Trieste</a>"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [12.40865037429989, 44.091704267935626 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER021.jpg' target='_blank'>Savignano Sul Rubicone</a>"}},
        
-      
         
+
         
         
         
