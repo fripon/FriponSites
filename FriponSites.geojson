@@ -594,8 +594,11 @@
       }, { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.2580555, 44.8271 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI04.jpg' target='_blank'>Luserna san Giovanni</a>"}
-      },
-        
+      },{ "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [13.2991430966919, 38.187447618061641 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI02.jpg' target='_blank'>Palermo</a>"}},
+       
+      
         
         
         
