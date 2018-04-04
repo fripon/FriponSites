@@ -633,7 +633,11 @@
           "properties": {"marker-color": "#222222","Name":"Tricase"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [18.11188274221729, 40.33598353355011]}, 
-          "properties": {"marker-color": "#222222","Name":"Leccee"}},
+          "properties": {"marker-color": "#222222","Name":"Lecce"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [12.647399540713536, 41.83864704831213]}, 
+          "properties": {"marker-color": "#222222","Name":"Roma"}},
+       
   
         
         
