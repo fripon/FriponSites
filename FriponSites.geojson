@@ -628,7 +628,12 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [15.66050999956439, 38.11924542514929 ]}, 
           "properties": {"marker-color": "#222222","Name":"Reggio Calabria"}},
-
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [18.36628222065280, 39.92356748555726]}, 
+          "properties": {"marker-color": "#222222","Name":"Tricase"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [18.11188274221729, 40.33598353355011]}, 
+          "properties": {"marker-color": "#222222","Name":"Leccee"}},
   
         
         
