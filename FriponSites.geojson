@@ -389,10 +389,16 @@
          "properties": {"marker-color": "#aa0000",
          "Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO07.jpg' target='_blank'>Ludiver</a>"}},    
         
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  1.545574,   47.511982 ]},
          "properties": {
          "Name":"<a href='http://www.picdumidi.eu/fripon/BSA/ImageLastFTP_AllSKY.jpg' target='_blank'>Fontaine en Sologne</a>" }} ,
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  6.906928,   44.696831 ]},
+         "properties": {
+         "Name":"Pic de Chateau Renard (Saint Véran)" }} ,
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -3.15393,   47.30337 ]}, 
