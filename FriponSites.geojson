@@ -633,22 +633,30 @@
         "geometry": {"type": "Point", "coordinates": [9.98121940689395, 46.188211749908056 ]}, 
           "properties": {"marker-color": "#222222","Name":"Ponte Valtellina"}},
         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [11.14333474235843, 46.0647400100266 ]}, 
+          "geometry": {"type": "Point", "coordinates": [11.14333474235843, 46.0647400100266 ]}, 
           "properties": {"marker-color": "#222222","Name":"Trente"}},
-         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [12.0317252834350943, 46.28418375737004 ]}, 
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [12.0317252834350943, 46.28418375737004 ]}, 
           "properties": {"marker-color": "#222222","Name":"Agordo"}},
         
         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [11.5174274, 45.5583811 ]}, 
+          "geometry": {"type": "Point", "coordinates": [11.5174274, 45.5583811 ]}, 
           "properties": {"marker-color": "#222222","Name":"Vicenza"}},
-       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [11.1921165, 45.6378231 ]}, 
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.1921165, 45.6378231 ]}, 
           "properties": {"marker-color": "#222222","Name":"Marana di Crespadoro"}},
-         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
           "properties": {"marker-color": "#222222","Name":"Monteromano"}},
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.2522209,  43.7505485 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Arcetri"}},
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [14.1398676,  41.1234241 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Capua"}},
         
+        
+  
    
         
          { "type": "Feature",
@@ -671,7 +679,7 @@
           "properties": {"marker-color": "#222222","Name":"Camerino"}},
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.2463141341717125, 43.52352816765794]}, 
-          "properties": {"marker-color": "#222222","Name":"Chiantio"}},
+          "properties": {"marker-color": "#222222","Name":"Chianti"}},
        
        
 
