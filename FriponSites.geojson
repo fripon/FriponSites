@@ -638,6 +638,19 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [12.0317252834350943, 46.28418375737004 ]}, 
           "properties": {"marker-color": "#222222","Name":"Agordo"}},
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.5174274, 45.5583811 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Vicenza"}},
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.1921165, 45.6378231 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Marana di Crespadoro"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Monteromano"}},
+        
+   
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.230453010371433, 45.88204955936525 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO02.jpg' target='_blank'>Sormano</a>"}},
