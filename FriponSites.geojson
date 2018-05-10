@@ -640,7 +640,7 @@
           "properties": {"marker-color": "#222222","Name":"Agordo"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.230453010371433, 45.88204955936525 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Sormano"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO02.jpg' target='_blank'>Sormano</a>"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [15.66050999956439, 38.11924542514929 ]}, 
           "properties": {"marker-color": "#222222","Name":"Reggio Calabria"}},
