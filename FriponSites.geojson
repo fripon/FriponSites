@@ -637,7 +637,7 @@
           "properties": {"marker-color": "#222222","Name":"Trente"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [12.0317252834350943, 46.28418375737004 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Agordo"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE04.jpg' target='_blank'>Agordo</a>"}},
         
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.5174274, 45.5583811 ]}, 
@@ -653,7 +653,7 @@
           "properties": {"marker-color": "#222222","Name":"Arcetri"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [14.1398676,  41.1234241 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Capua"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP02.jpg' target='_blank'>Capua</a>"}},
         
         
   
@@ -670,13 +670,13 @@
           "properties": {"marker-color": "#222222","Name":"Tricase"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [18.11188274221729, 40.33598353355011]}, 
-          "properties": {"marker-color": "#222222","Name":"Lecce"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU02.jpg' target='_blank'>Lecce</a>"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [12.647399540713536, 41.83864704831213]}, 
           "properties": {"marker-color": "#222222","Name":"Roma"}},
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [13.06606353419135, 43.13476083317582]}, 
-          "properties": {"marker-color": "#222222","Name":"Camerino"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA01.jpg' target='_blank'>Camerino</a>"}},
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.2463141341717125, 43.52352816765794]}, 
           "properties": {"marker-color": "#222222","Name":"Chianti"}},
