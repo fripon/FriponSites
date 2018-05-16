@@ -647,10 +647,10 @@
           "properties": {"marker-color": "#222222","Name":"Marana di Crespadoro"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Monteromano"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE04.jpg' target='_blank'>Monteromano</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.2522209,  43.7505485 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Arcetri"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO03.jpg' target='_blank'>Arcetri</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [14.1398676,  41.1234241 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP02.jpg' target='_blank'>Capua</a>"}},
@@ -679,6 +679,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA01.jpg' target='_blank'>Camerino</a>"}},
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.2463141341717125, 43.52352816765794]}, 
+        
           "properties": {"marker-color": "#222222","Name":"Chianti"}},
        
        
