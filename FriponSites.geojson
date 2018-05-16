@@ -647,7 +647,7 @@
           "properties": {"marker-color": "#222222","Name":"Marana di Crespadoro"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
-          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE04.jpg' target='_blank'>Monteromano</a>"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER07.jpg' target='_blank'>Monteromano</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.2522209,  43.7505485 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO03.jpg' target='_blank'>Arcetri</a>"}},
