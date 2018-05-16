@@ -631,7 +631,7 @@
           "properties": {"marker-color": "#222222","Name":"Vercelli"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.98121940689395, 46.188211749908056 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Ponte Valtellina"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO05.jpg' target='_blank'>Ponte Valtelina</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.14333474235843, 46.0647400100266 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTA01.jpg' target='_blank'>Trento</a>"}},
