@@ -500,6 +500,10 @@
         "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
       },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 6.558687,  53.2298891]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI02.jpg' target='_blank'>Groningen</a>"}
+      },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 11.720225,  48.545182]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY02.jpg' target='_blank'>Seysdorf </a>"}
