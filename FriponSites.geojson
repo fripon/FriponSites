@@ -501,7 +501,7 @@
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
       },
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 6.558687,  53.2298891]},
+        "geometry": {"type": "Point", "coordinates": [ 6.525585,  53.249513]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI02.jpg' target='_blank'>Groningen</a>"}
       },
        { "type": "Feature",
