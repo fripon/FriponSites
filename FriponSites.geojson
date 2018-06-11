@@ -514,7 +514,7 @@
       },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  13.758098,    48.823929]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY03.jpg' target='_blank'>Haidmühle </a>"}
+          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY03.jpg' target='_blank'>Haidmühle </a>"}
       },  { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  12.631277,    52.495]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBB01.jpg' target='_blank'>Ketzür </a>"}
