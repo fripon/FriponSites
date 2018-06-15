@@ -420,7 +420,7 @@
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.299466,   49.89907 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Amiens"}  },  
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRPI01.jpg' target='_blank'>Amiens</a>"}  },  
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  0.380771,   46.565781 ]}, 
