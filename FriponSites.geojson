@@ -477,7 +477,7 @@
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.565467,50.582154]},
-          "properties": {"marker-color": "#222222","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEWA01.jpg' target='_blank'>Liège</a>"} },
+          "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEWA01.jpg' target='_blank'>Liège</a>"} },
 
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
