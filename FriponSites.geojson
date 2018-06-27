@@ -465,8 +465,8 @@
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA01.jpg' target='_blank'>Montsec</a>"}},
         
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 2.118994,41.391779]},
-          "properties": {"marker-color": "#222222","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA02.jpg' target='_blank'>Barcelona</a>"}},
+        "geometry": {"type": "Point", "coordinates": [  2.119061,41.391765]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA02.jpg' target='_blank'>Barcelona</a>"}},
         
         
         
