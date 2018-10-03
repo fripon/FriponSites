@@ -605,7 +605,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.4783333,  45.7898611]},
-          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVA02.jpg' target='_blank'>Lignan</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVA01.jpg' target='_blank'>Lignan</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.86854083, 45.4019454 ]},
