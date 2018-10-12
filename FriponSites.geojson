@@ -798,6 +798,10 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  19.0,    48.0]},
           "properties": {"marker-color": "#cccc00","Name":"e-FRIPON"}
+      },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  19.0,    47.0]},
+          "properties": {"marker-color": "#ff00ff","Name":"GRAVES radar"}
       }
         
         
