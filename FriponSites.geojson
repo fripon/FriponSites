@@ -772,31 +772,31 @@
         
         
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  20.0,    55.0]},
+        "geometry": {"type": "Point", "coordinates": [  19.0,    54.0]},
           "properties": {"Name":"FRIPON Camera"}
       },
           { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  20.0,    54.0]},
+        "geometry": {"type": "Point", "coordinates": [  19.0,    53.0]},
           "properties": {"marker-color": "#aa0000","Name":"FRIPON - Caméra + radar"}
       },
           { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  20.0,    53.0]},
+        "geometry": {"type": "Point", "coordinates": [  19.0,    52.0]},
           "properties": {"marker-color": "#000000","Name":"To be installed"}
       },
           { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  20.0,    52.0]},
+        "geometry": {"type": "Point", "coordinates": [  19.0,    51.0]},
           "properties": {"marker-color": "#00aa00","Name":"PRISMA"}
       },
           { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  20.0,    51.0]},
+        "geometry": {"type": "Point", "coordinates": [  19.0,    50.0]},
           "properties": {"marker-color": "#0000bb","Name":"MOROI"}
       },
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  20.0,    50.0]},
+        "geometry": {"type": "Point", "coordinates": [  19.0,    49.0]},
           "properties": {"marker-color": "#888888","Name":"SCAMP"}
       },
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  20.0,    49.0]},
+        "geometry": {"type": "Point", "coordinates": [  19.0,    48.0]},
           "properties": {"marker-color": "#cccc00","Name":"e-FRIPON"}
       }
         
