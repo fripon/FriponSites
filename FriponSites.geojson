@@ -68,7 +68,7 @@
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ01.jpg' target='_blank'>Talence</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [2.97725190000006,43.1891644]},
+        "geometry": {"type": "Point", "coordinates": [2.873871,43.163634]}, 
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR03.jpg' target='_blank'>Bizanet</a>"}
       },
       { "type": "Feature",
