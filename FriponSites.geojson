@@ -69,7 +69,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.97725190000006,43.1891644]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR03.jpg' target='_blank'>Narbonne</a>"}
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR03.jpg' target='_blank'>Bizanet</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [1.532777778,48.579722222]},
