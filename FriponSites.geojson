@@ -677,7 +677,7 @@
           "properties": {"marker-color": "#222222","Name":"Reggio Calabria"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [18.36628222065280, 39.92356748555726]}, 
-          "properties": {"marker-color": "#222222","Name":"Tricase"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA01.jpg' target='_blank'>Tricase</a>"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [18.11188274221729, 40.33598353355011]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU02.jpg' target='_blank'>Lecce</a>"}},
