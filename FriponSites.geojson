@@ -443,8 +443,8 @@
        "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCO03.jpg' target='_blank'>Ajaccio</a>" }}, 
         
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  2.43812,    48.291782 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Buthiers"}  }, 
+        "geometry": {"type": "Point", "coordinates": [   2.522362,    48.362668 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Le Vaudoué "}  }, 
       
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  4.390887,    44.621016 ]},
