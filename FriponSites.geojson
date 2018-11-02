@@ -456,7 +456,7 @@
 
           { "type": "Feature", 
         "geometry": {"type": "Point", "coordinates": [  1.866338,    46.52921 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Saint Denis de Jouhet"}  }, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCE06.jpg' target='_blank'>Saint DEnis de Jouhet</a>" }  }, 
         
         
         
