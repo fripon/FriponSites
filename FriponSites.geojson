@@ -455,8 +455,8 @@
           "properties": {"marker-color": "#222222","Name":"Flers"}  }, 
 
           { "type": "Feature", 
-        "geometry": {"type": "Point", "coordinates": [  1.986091,    46.582966 ]}, 
-          "properties": {"marker-color": "#222222","Name":"La Châtre"}  }, 
+        "geometry": {"type": "Point", "coordinates": [  1.866338,    46.52921 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Saint Denis de Jouhet"}  }, 
         
         
         
