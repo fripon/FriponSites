@@ -227,6 +227,10 @@
         "geometry": {"type": "Point", "coordinates": [-1.5487,47.2453]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPL01.jpg' target='_blank'>Nantes</a>"}
       },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.78289,48.081912]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPL04.jpg' target='_blank'>Laval</a>"}
+      },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [4.720722222,49.738444444]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA03.jpg' target='_blank'>Charleville Mézières</a>"}
