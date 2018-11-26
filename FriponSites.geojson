@@ -669,7 +669,7 @@
           "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER07.jpg' target='_blank'>Monteromano</a>"}},
         { "type": "Feature",
-          "geometry": {"type": "Point", "coordinates": [11.2522209,  43.7505485 ]}, 
+          "geometry": {"type": "Point", "coordinates": [11.254372,  43.750590 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO03.jpg' target='_blank'>Arcetri</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [14.1398676,  41.1234241 ]}, 
