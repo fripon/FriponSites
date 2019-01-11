@@ -473,7 +473,7 @@
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.119061,41.391765]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA02.jpg' target='_blank'>Barcelona</a>"}},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA02.jpg' target='_blank'>Barcelona</a>"}},
         
         
         
@@ -811,8 +811,11 @@
       },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -8.0,    44.0]},
+          "properties": {"marker-color": "#ff4400","Name":"SPMN"}
+      },
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -8.0,    43.0]},
           "properties": {"marker-color": "#ff00ff","Name":"GRAVES radar"}
-      }
-        
+      } 
         
     ]}
