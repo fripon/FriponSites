@@ -784,12 +784,12 @@
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -8.0,    51.0]},
-          "properties": {"Name":"<a href='https://www.fripon.org/?lang=en ' target='_blank'>FRIPON Camera</a>"    }
+          "properties": {"Name":"<a href='https://www.fripon.org/?lang=en ' target='_blank'>FRIPON Camera (France)</a>"    }
       },
 
             { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -8.0,    50.0]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/spip.php?article42' target='_blank'>FRIPON Camera + Radio</a>"    }
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/spip.php?article42' target='_blank'>FRIPON Camera + Radio (Europe)</a>"    }
       },    
         
           { "type": "Feature",
@@ -798,26 +798,26 @@
       },
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -8.0,    48.0]},
-          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.prisma.inaf.it/' target='_blank'>PRISMA</a>"}    
+          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.prisma.inaf.it/' target='_blank'>PRISMA (Italia)</a>"}    
       },
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -8.0,    47.0]},
-          "properties": {"marker-color": "#0000bb","Name":"MOROI"}
+          "properties": {"marker-color": "#0000bb","Name":"MOROI (Romania)"}
       },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -8.0,    46.0]},
-          "properties": {"marker-color": "#888888", "Name":"<a href='https://ukmeteornetwork.co.uk/SCAMP/' target='_blank'>SCAMP</a>"}
+          "properties": {"marker-color": "#888888", "Name":"<a href='https://ukmeteornetwork.co.uk/SCAMP/' target='_blank'>SCAMP (UK)</a>"}
          
       },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -8.0,    45.0]},
-          "properties": {"marker-color": "#cccc00","Name":"e-FRIPON"}
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/spip.php?article60' target='_blank'>e-FRIPON (Europe)</a>"}
       },
         
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -8.0,    44.0]},
-          "properties": {"marker-color": "#ff4400","Name":"<a href='http://www.spmn.uji.es/ESP/SPMNlist.html' target='_blank'>SPMN</a>"}
+          "properties": {"marker-color": "#ff4400","Name":"<a href='http://www.spmn.uji.es/ESP/SPMNlist.html' target='_blank'>SPMN (Spain)</a>"}
       },
        
         
