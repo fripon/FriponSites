@@ -451,8 +451,9 @@
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [   2.522362,    48.362668 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Le Vaudoué "}  }, 
-      
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRIF06.jpg' target='_blank'>Le Vaudoué</a>" } }, 
+        
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  4.390887,    44.621016 ]},
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRRA06.jpg' target='_blank'>Aubenas</a>" }  }, 
