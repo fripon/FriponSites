@@ -721,43 +721,43 @@
       
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.5937148, 46.7102406]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-1.png' target='_blank'>Feleac</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-1.png' target='_blank'>Feleac</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [22.8850633,45.6134068]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-2.png' target='_blank'>Berthelot</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-2.png' target='_blank'>Berthelot</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.0751838,46.6609761]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-3.png' target='_blank'>Mărișel</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-3.png' target='_blank'>Mărișel</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [25.9625392, 45.0027304]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-4.png' target='_blank'>Păulești</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-4.png' target='_blank'>Păulești</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [21.2307929,45.7380603]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-5.png' target='_blank'>Timișoara</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-5.png' target='_blank'>Timișoara</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-6.png' target='_blank'>București</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-6.png' target='_blank'>București</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.8744526,47.1556528]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-7.png' target='_blank'>Dej</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-7.png' target='_blank'>Dej</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [28.0319187, 45.4191328]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-8.png' target='_blank'>Galati</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-8.png' target='_blank'>Galati</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [27.6716757, 46.2308469]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-9.png' target='_blank'>Barlad</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-9.png' target='_blank'>Barlad</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [21.7133183, 45.3757458]},
-          "properties": {"marker-color": "#0000bb","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-10.png' target='_blank'>Bocșa</a>"}
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-10.png' target='_blank'>Bocșa</a>"}
       },
        
 
@@ -818,46 +818,50 @@
         
         
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -8.0,    51.0]},
+        "geometry": {"type": "Point", "coordinates": [  -13.0,    51.0]},
           "properties": {"Name":"<a href='https://www.fripon.org/?lang=en ' target='_blank'>FRIPON Camera (France)</a>"    }
       },
 
             { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -8.0,    50.0]},
+        "geometry": {"type": "Point", "coordinates": [  -13.0,    50.0]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/spip.php?article42' target='_blank'>FRIPON Camera + Radio (Europe)</a>"    }
       },    
         
           { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -8.0,    49.0]},
+        "geometry": {"type": "Point", "coordinates": [  -13.0,    49.0]},
           "properties": {"marker-color": "#000000","Name":"To be installed"}
       },
           { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -8.0,    48.0]},
+        "geometry": {"type": "Point", "coordinates": [  -13,    48.0]},
           "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.prisma.inaf.it/' target='_blank'>PRISMA (Italia)</a>"}    
       },
           { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -8.0,    47.0]},
-          "properties": {"marker-color": "#0000bb","Name":"MOROI (Romania)"}
+        "geometry": {"type": "Point", "coordinates": [  -13,    47.0]},
+          "properties": {"marker-color": "#FF9900","Name":"MOROI (Romania)"}
       },
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -8.0,    46.0]},
+        "geometry": {"type": "Point", "coordinates": [  -13,    46.0]},
           "properties": {"marker-color": "#888888", "Name":"<a href='https://ukmeteornetwork.co.uk/SCAMP/' target='_blank'>SCAMP (UK)</a>"}
          
       },
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -8.0,    45.0]},
+        "geometry": {"type": "Point", "coordinates": [  -13,    45.0]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/spip.php?article60' target='_blank'>e-FRIPON (Europe)</a>"}
       },
         
         
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -8.0,    44.0]},
+        "geometry": {"type": "Point", "coordinates": [  -13,    44.0]},
           "properties": {"marker-color": "#ff4400","Name":"<a href='http://www.spmn.uji.es/ESP/SPMNlist.html' target='_blank'>SPMN (Spain)</a>"}
       },
        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    43.0]},
+          "properties": {"marker-color": "#0044CC","Name":"FRIPON Québec"}
+      },
         
         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -8.0,    43.0]},
+        "geometry": {"type": "Point", "coordinates": [  -13,    42.0]},
           "properties": {"marker-color": "#ff00ff","Name":"<a href='http://f6crp.pagesperso-orange.fr/ba/graves.htm' target='_blank'>GRAVES radar</a>"}
          
   
