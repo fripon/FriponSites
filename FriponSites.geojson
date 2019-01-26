@@ -763,13 +763,16 @@
 
         
         
-       
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
+          "properties": {"marker-color": "#888888","Name":"cardiff"}
+      },    
         
-          
         
+     
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-3.21861,50.68777]},
-          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Norman-Lockyer</a>"}
+        "geometry": {"type": "Point", "coordinates": [3.184408,50.801832]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Honinton</a>"}
       },
           { "type": "Feature",  
         "geometry": {"type": "Point", "coordinates": [-6.649632,54.352350]},
