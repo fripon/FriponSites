@@ -799,17 +799,17 @@
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -73.550269, 45.560747]},
-          "properties": {"marker-color": "#0066FF","Name":"Montreal"}
+          "properties": {"marker-color": "#0044CC","Name":"Montréal"}
       },  
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.3112589, 45.493749]},
-          "properties": {"marker-color": "#0066FF","Name":"Valcourt"}
+          "properties": {"marker-color": "#0044CC","Name":"Valcourt"}
       },  
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.949033,  46.249248]},
-          "properties": {"marker-color": "#0066FF","Name":"Louiseville"}
+          "properties": {"marker-color": "#0044CC","Name":"Louiseville"}
       },   
         
   
