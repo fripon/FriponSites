@@ -794,6 +794,25 @@
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHVA01.jpg' target='_blank'>Saint Luc</a>"}
       },
         
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -73.550269, 45.560747]},
+          "properties": {"marker-color": "#0066FF","Name":"Montreal"}
+      },  
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -72.3112589, 45.493749]},
+          "properties": {"marker-color": "#0066FF","Name":"Valcourt"}
+      },  
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -72.949033,  46.249248]},
+          "properties": {"marker-color": "#0066FF","Name":"Louiseville"}
+      },   
+        
+  
+        
+     
+        
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -8.0,    51.0]},
