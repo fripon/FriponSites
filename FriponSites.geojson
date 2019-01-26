@@ -468,6 +468,12 @@
         
         
         
+        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-2.948486,43.262180]}, 
+          "properties": {"marker-color": "#FF4400","Name":"Bilbao"}},
+        
+        
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.736828,42.024775]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA01.jpg' target='_blank'>Montsec</a>"}},
