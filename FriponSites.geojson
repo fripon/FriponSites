@@ -786,7 +786,12 @@
         "geometry": {"type": "Point", "coordinates": [-0.169234,51.637359]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENGL01.jpg' target='_blank'>EastBarnet</a>"}
       },
+         { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-1.307598,51.57617]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENGL02.jpg' target='_blank'>Harwell</a>"}
+      },
         
+  
         
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.4206861,47.35174]},
