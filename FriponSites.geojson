@@ -668,7 +668,7 @@
         
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.5174274, 45.5583811 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Vicenza"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE05.jpg' target='_blank'>Vicenza</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.1921165, 45.6378231 ]}, 
           "properties": {"marker-color": "#222222","Name":"Marana di Crespadoro"}},
