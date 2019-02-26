@@ -797,6 +797,10 @@
         "geometry": {"type": "Point", "coordinates": [-1.307598,51.57617]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENGL02.jpg' target='_blank'>Harwell</a>"}
       },
+          { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [1.07208,51.2735]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE02.jpg' target='_blank'>Canterbury</a>"}
+      },
         
   
         
