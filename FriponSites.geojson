@@ -802,11 +802,16 @@
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE02.jpg' target='_blank'>Canterbury</a>"}
       },
         
-  
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.4206861,47.35174]},  
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHJU01.jpg' target='_blank'>Vicques</a>"}
+      },
+        
         
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [7.4206861,47.35174]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHJU01.jpg' target='_blank'>Vicques</a>"}
+        "geometry": {"type": "Point", "coordinates": [-7.866467,31.20616]},
+          "properties": {"marker-color": "#cc0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Oukaimeen</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  7.612612, 46.228230]},
