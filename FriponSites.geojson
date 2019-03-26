@@ -705,7 +705,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO02.jpg' target='_blank'>Sormano</a>"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [15.66050999956439, 38.11924542514929 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Reggio Calabria"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCL01.jpg' target='_blank'>Reggio Calabria</a>"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [18.36628222065280, 39.92356748555726]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA01.jpg' target='_blank'>Tricase</a>"}},
