@@ -697,7 +697,10 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP02.jpg' target='_blank'>Capua</a>"}},
         
         
-  
+   { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [10.335512,  36.880681 ]}, 
+          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_TNTU01.jpg' target='_blank'>La Marsa</a>"}},
+        
    
         
          { "type": "Feature",
@@ -810,8 +813,8 @@
         
         
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-7.866467,31.20616]},
-          "properties": {"marker-color": "#cc0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Oukaimeen</a>"}
+        "geometry": {"type": "Point", "coordinates": [-7.935888,32.218475]}, 
+          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Ben Guerir</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  7.612612, 46.228230]},
