@@ -557,6 +557,11 @@
         "geometry": {"type": "Point", "coordinates": [7.944020,44.6111182]},
           "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITPI06pg' target='_blank'>Barolo</a>"}
       },
+      
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 14.645457,  41.063718]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP04.jpg' target='_blank'>Montesarchio </a>"}
+      },
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
