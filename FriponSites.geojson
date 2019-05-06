@@ -154,7 +154,7 @@
       
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.128808,41.907619]},
-          "properties": {"marker-color": "#0000FF","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO04.jpg' target='_blank'>Zicavo</a>"}
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO04.jpg' target='_blank'>Zicavo</a>"}
       },
         
         
