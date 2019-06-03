@@ -704,7 +704,7 @@
         
    { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [10.335512,  36.880681 ]}, 
-          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_TNTU01.jpg' target='_blank'>La Marsa</a>"}},
+          "properties": {"marker-color": "#000000","Name":"La Marsa (not active)"}},
         
    
         
