@@ -780,10 +780,8 @@
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
-          "properties": {"marker-color": "#888888","Name":"cardiff"}
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_GBWL01.jpg' target='_blank'>Cardiff</a>"}
       },    
-        
-        
      
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-3.184408,50.801832]},
