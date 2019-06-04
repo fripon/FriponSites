@@ -817,7 +817,7 @@
         
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-7.935888,32.218475]}, 
-          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Ben Guerir</a>"}
+          "properties": {"marker-color": "#000000","Name":"Ben Guerir, not active"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  7.612612, 46.228230]},
