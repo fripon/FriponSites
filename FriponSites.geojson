@@ -445,8 +445,8 @@
         
         
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  6.515989,   46.2480 ]},
-          "properties": {"marker-color": "#222222","Name":"Bellevaux"}  }, 
+        "geometry": {"type": "Point", "coordinates": [  6.664958,   45.85603 ]},
+          "properties": {"marker-color": "#222222","Name":"Mont d'Arbois"}  }, 
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  5.908228,   44.634159 ]}, 
