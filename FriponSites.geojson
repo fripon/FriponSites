@@ -689,6 +689,10 @@
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [9.130760, 39.281950 ]}, 
           "properties": {"marker-color": "#222222","Name":"Selargius"}},
+         { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.043198, 43.755337 ]},
+          "properties": {"marker-color": "#222222","Name":"Montelupo Fiorentino"}},
+        
        
         
         
