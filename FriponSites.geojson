@@ -563,10 +563,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP04.jpg' target='_blank'>Montesarchio </a>"}
       },
         
-       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 14.255361,  40.862528]},
-          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP01.jpg' target='_blank'>Napoli </a>"}
-      },
+      
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 11.3324232,  44.2557684]},
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER01.jpg' target='_blank'>Loiano </a>"}
