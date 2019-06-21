@@ -660,7 +660,7 @@
         "geometry": {"type": "Point", "coordinates": [8.938199138528717, 44.42491573430273 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI01.jpg' target='_blank'>Genova</a>"}},
         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [9.428627276721159, 45.7038613244967353 ]}, 
+        "geometry": {"type": "Point", "coordinates": [9.428459, 45.705858 ]},
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO04.jpg' target='_blank'>Merate</a>"}},
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.42556231813739, 45.32744623278966 ]}, 
