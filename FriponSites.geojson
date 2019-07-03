@@ -832,7 +832,7 @@
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -73.550269, 45.560747]},
-          "properties": {"marker-color": "#0044CC","Name":"Montréal"}
+          "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC01.jpg' target='_blank'>Montréal</a>"}
       },  
         
          { "type": "Feature",
