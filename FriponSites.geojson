@@ -400,6 +400,12 @@
          "properties": {"marker-color": "#aa0000",
          "Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO07.jpg' target='_blank'>Ludiver</a>"}},    
         
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  55.383095,   -21.079737 ]}, 
+         "properties": {
+         "Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRRU01.jpg' target='_blank'>Observatoire du Maido/a>"}},    
+        
+       
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  1.545574,   47.511982 ]},
