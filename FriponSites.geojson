@@ -551,7 +551,12 @@
       },
         
         
-                
+       { "type": "Feature",   
+        "geometry": {"type": "Point", "coordinates": [  9.798961,    54.908907]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DKSD01.jpg' target='_blank'>Sonderborg </a>"}
+      },     
+        
+        
         
       
       { "type": "Feature",
