@@ -717,7 +717,7 @@
         
    { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [10.335512,  36.880681 ]}, 
-          "properties": {"marker-color": "#000000","Name":"La Marsa (not active)"}},
+          "properties": {"marker-color": "#005500","Name":"La Marsa (not active)"}},
         
    
         
@@ -830,7 +830,7 @@
         
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-7.935888,32.218475]}, 
-          "properties": {"marker-color": "#000000","Name":"Ben Guerir, not active"}
+          "properties": {"marker-color": "#005500","Name":"Ben Guerir, not active"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  7.612612, 46.228230]},
@@ -883,10 +883,14 @@
       },
        
      
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    43.0]},
+          "properties": {"marker-color": "#ff4400","Name":"<a href='http://www.spmn.uji.es/ESP/SPMNlist.html' target='_blank'>SPMN (Spain)</a>"}
+      },
         
         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -13,    43.0]},
-          "properties": {"marker-color": "#ff00ff","Name":"<a href='http://f6crp.pagesperso-orange.fr/ba/graves.htm' target='_blank'>GRAVES radar</a>"} 
+        "geometry": {"type": "Point", "coordinates": [  -13,    44.0]},
+          "properties": {"marker-color": "#005500","Name":"FRIPON North Africa"} 
       } 
       
         
