@@ -836,7 +836,10 @@
         
   
         
-       
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-7.935888,32.218475]}, 
+          "properties": {"marker-color": "#005500","Name":"Ben Guerir (not active)"}
+      },
           
         
  
