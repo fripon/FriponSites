@@ -507,65 +507,11 @@
         "geometry": {"type": "Point", "coordinates": [5.565467,50.582154]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEWA01.jpg' target='_blank'>Liège</a>"} },
 
-       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLWN01.jpg' target='_blank'>Noordwijk</a>"}},
-      
-       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [3.53767, 51.57192]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLWN02.jpg' target='_blank'>Oostkapelle</a>"}},
-         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 6.5256694,  53.2494583]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLNN01.jpg' target='_blank'>Groningen</a>"}},
-         { "type": "Feature",
-         "geometry": {"type": "Point", "coordinates": [ 7.00643,  52.37249]},
-         "properties": {"marker-color":"#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLEN01.jpg' target='_blank'>Denekamp</a>"}},
+
    
         
-       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_stack.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
-      },
-       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
-      },
-         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 7.713935,  53.773939]},   
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI03.jpg' target='_blank'>Spiekeroog</a>"}
-      },
         
-       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 11.720225,  48.545182]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY02.jpg' target='_blank'>Seysdorf </a>"}
-      },
-         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  10.486876,   48.853913]},
-          "properties": {"marker-color": "#222222","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY01.jpg' target='_blank'>Nordlingen </a>"}
-      },
-         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  13.758098,    48.823929]},
-          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY03.jpg' target='_blank'>Haidmühle </a>"}
-      },  { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  12.631277,    52.495]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBB01.jpg' target='_blank'>Ketzür </a>"}
-      },
-        
-        
-       { "type": "Feature",   
-        "geometry": {"type": "Point", "coordinates": [  9.798961,    54.908907]},
-          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DKSD01.jpg' target='_blank'>Sonderborg </a>"}
-      },     
-        
-        
-        
-   { "type": "Feature",
-          "geometry": {"type": "Point", "coordinates": [10.335512,  36.880681 ]}, 
-          "properties": {"marker-color": "#005500","Name":"La Marsa (not active)"}},
-        
-   
-        
- 
+
       
         
  
