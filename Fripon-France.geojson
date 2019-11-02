@@ -25,10 +25,6 @@
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLI01.jpg' target='_blank'>Rochechouart</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [16.359753,48.20525]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ATWI01.jpg' target='_blank'>Wien</a>"}
-      },
-      { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.71475,43.933005556]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA03.jpg' target='_blank'>Obs. de Haute Provence</a>"}
       },
@@ -145,10 +141,6 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-1.749297222,43.377447222]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ03.jpg' target='_blank'>Hendaye</a>"}
-      },
-      { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [26.0963125,44.414]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ROIF01.jpg' target='_blank'>Bucureşti</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.020833,48.931944]},
@@ -489,17 +481,17 @@
  
         
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -13.0,    51.0]},
+        "geometry": {"type": "Point", "coordinates": [  -10.0,    48.0]},
           "properties": {"Name":"<a href='https://www.fripon.org/?lang=en ' target='_blank'>FRIPON Camera (France)</a>"    }
       },
 
             { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -13.0,    50.0]},
+        "geometry": {"type": "Point", "coordinates": [  -10.0,    47.0]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/spip.php?article42' target='_blank'>FRIPON Camera + Radio (Europe)</a>"    }
       },    
         
           { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -13.0,    49.0]},
+        "geometry": {"type": "Point", "coordinates": [  -10.0,    46.0]},
           "properties": {"marker-color": "#000000","Name":"To be installed"}
       }
         
