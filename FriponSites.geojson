@@ -841,6 +841,7 @@
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHVA01.jpg' target='_blank'>Saint Luc</a>"}
       },
         
+  
         
         
        { "type": "Feature",
@@ -868,7 +869,8 @@
           "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC06.jpg' target='_blank'>Val-David </a>"}
       },     
       
-           
+          
+        
  
         
          { "type": "Feature",
