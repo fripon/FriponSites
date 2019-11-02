@@ -1,0 +1,904 @@
+{ "type": "FeatureCollection",
+    "features": [
+        
+         
+   { "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [  5.5136,   47.3477 ]}, 
+    "properties": {"marker-color": "#ff00ff","Name":"Radar GRAVES"} } ,
+     
+        
+    { "type": "Feature", 
+        "geometry": {"type": "Point",  "coordinates": [2.7422,48.742683]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.943706,47.836378]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE01.jpg' target='_blank'>Orléans</a>"}
+      },
+    
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.1427778,42.936388889]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP01.jpg' target='_blank'>Pic du Midi</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.819922222,45.823080556]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLI01.jpg' target='_blank'>Rochechouart</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [16.359753,48.20525]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ATWI01.jpg' target='_blank'>Wien</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.71475,43.933005556]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA03.jpg' target='_blank'>Obs. de Haute Provence</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.75365827246336,43.961583430777]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA07.jpg' target='_blank'>Les Angles</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.436338889,43.343625]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA01.jpg' target='_blank'>Marseille</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.850992,45.211736]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA10.jpg' target='_blank'>Le Versoud</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.1794019,48.7063942]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF04.jpg' target='_blank'>Orsay</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.09830200605171,43.6427648345065]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA08.jpg' target='_blank'>Salon de Provence</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.33397059667823,43.4913182005546]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA02.jpg' target='_blank'>Aix en Provence</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.792866,46.397709]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRFC04.jpg' target='_blank'>Saint Lupicin</a>"}
+      },
+      
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.572777778,47.860833333]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBO06.jpg' target='_blank'>Châtillon sur Seine</a>"}
+      },
+      
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.070833,50.615833]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP01.jpg' target='_blank'>Lille</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.593,44.807861]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ01.jpg' target='_blank'>Talence</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.873871,43.163634]}, 
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR07.jpg' target='_blank'>Bizanet</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.532777778,48.579722222]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE04.jpg' target='_blank'>Pierres</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.924186,43.751822]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA05.jpg' target='_blank'>Caussols</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-2.810592,47.503364]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBR04.jpg' target='_blank'>Vannes</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.706944444,45.155]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ06.jpg' target='_blank'>Coulounieix</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-1.030453,43.693376]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ04.jpg' target='_blank'>Dax</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.865164,47.64085]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRFC02.jpg' target='_blank'>Belfort</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.02955,46.957868]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBO03.jpg' target='_blank'>Glux en Glenne</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.206638,47.992664]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL02.jpg' target='_blank'>Osenbach</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.112222,43.095833]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA06.jpg' target='_blank'>Hyeres</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.318713889,46.559780556]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU04.jpg' target='_blank'>Moulins sur Allier</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.741666667,44.504166667]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR04.jpg' target='_blank'>Le Bleymard</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.35105,46.914658]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRFC03.jpg' target='_blank'>Pontarlier</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.989382,47.246874]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRFC01.jpg' target='_blank'>Besan&ccedil;on</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.067222222,49.24325]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA01.jpg' target='_blank'>Reims</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.765284,50.28739]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP05.jpg' target='_blank'>Arras</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.64221670088842,44.3900550617724]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA04.jpg' target='_blank'>Barcelonette</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-1.749297222,43.377447222]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ03.jpg' target='_blank'>Hendaye</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [26.0963125,44.414]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ROIF01.jpg' target='_blank'>Bucureşti</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.020833,48.931944]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL03.jpg' target='_blank'>Sarralbe</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.47984829790867,42.6167868564871]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO01.jpg' target='_blank'>Biguglia</a>"}
+      },
+      
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.128808,41.907619]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO04.jpg' target='_blank'>Zicavo</a>"}
+      },
+        
+        
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.065306,47.315964]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBO01.jpg' target='_blank'>Dijon</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.903616667,45.16195]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLI02.jpg' target='_blank'>Saint Bonnet Elvert</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.164408333,45.649036111]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPC02.jpg' target='_blank'>Angoulême</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.4357333,48.1856804]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLO02.jpg' target='_blank'>Epinal</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.366519,50.99608]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP02.jpg' target='_blank'>Cappelle la Grande</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.271201,41.599729]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO02.jpg' target='_blank'>Porto Vecchio</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.911666667,48.616388889]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA02.jpg' target='_blank'>Valcourt</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.417616667,46.197616667]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPC04.jpg' target='_blank'>Marigny</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.8197421,43.9189987]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP06.jpg' target='_blank'>Mauroux</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.987009,50.277946]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP04.jpg' target='_blank'>Maubeuge</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.762943,48.579815]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL01.jpg' target='_blank'>Strasbourg</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.626388889,45.915555556]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA05.jpg' target='_blank'>Sutrieu</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.300216,42.787796]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP03.jpg' target='_blank'>Guzet Neige</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.306967,42.47969]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR06.jpg' target='_blank'>Mantet</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.58541167,44.364765278]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP07.jpg' target='_blank'>Onet le Ch&acirc;teau</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.509234167,47.968797222]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBO02.jpg' target='_blank'>Migennes</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.92381,44.88337]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA09.jpg' target='_blank'>Beaumont les Valence</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.605769,50.763017]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP03.jpg' target='_blank'>Wimereux</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-1.5487,47.2453]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPL01.jpg' target='_blank'>Nantes</a>"}
+      },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.78289,48.081912]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPL04.jpg' target='_blank'>Laval</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.720722222,49.738444444]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA03.jpg' target='_blank'>Charleville Mézières</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.866,45.78]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA02.jpg' target='_blank'>Lyon</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.44602,44.455296]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP05.jpg' target='_blank'>Cahors</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.96457225,45.772129278]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU01.jpg' target='_blank'>Puy de Dôme</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.064605,48.270016]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA04.jpg' target='_blank'>Troyes</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.054797222,45.133291667]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU02.jpg' target='_blank'>Saint Julien du Pinet</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.832983,47.223326]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE03.jpg' target='_blank'>Tauxigny</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.430866667,44.924916667]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAU03.jpg' target='_blank'>Aurillac</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-1.6927,49.6657]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO01.jpg' target='_blank'>Querqueville</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.65925,46.628944444]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPL02.jpg' target='_blank'>Chapelle aux Lys</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.761208333,45.192436111]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA01.jpg' target='_blank'>Grenoble</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.125841667,43.161541667]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR05.jpg' target='_blank'>Cailhavel</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.1655706,45.9554738]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLI03.jpg' target='_blank'>Aubusson</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.137616667,43.918694444]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP04.jpg' target='_blank'>Albi</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.084444,49.44722]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO05.jpg' target='_blank'>Rouen</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.857106,46.776205]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBO05.jpg' target='_blank'>Chalon-sur-Saône</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.600621667,47.482483333]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPL03.jpg' target='_blank'>Angers</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.35712722,48.8432778]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF05.jpg' target='_blank'>Paris MNHN</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-4.504675,48.408680556]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBR01.jpg' target='_blank'>Brest</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.366872222,49.192327778]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO03.jpg' target='_blank'>Caen</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.479213889,43.562141667]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRMP02.jpg' target='_blank'>Toulouse</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.567500556,48.756330833]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL04.jpg' target='_blank'>Hochfelden</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-1.048806,45.638987]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPC03.jpg' target='_blank'>Royan</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.03678,45.9964]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA07.jpg' target='_blank'>Villerest</a>"}
+      },
+      
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.1956833, 47.3678667]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE02.jpg' target='_blank'>Nan&ccedil;ay</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.7206931, 49.7384567]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCA03.jpg' target='_blank'>Charleville-mézières</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.1555, 48.6559277]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO01.jpg' target='_blank'>Nancy</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.746165, 44.149088]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ02.jpg' target='_blank'>Sabres</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 5.995933, 49.214166 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO03.jpg' target='_blank'>Homecourt</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 2.336733, 48.836595 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRIF02.jpg' target='_blank'>Observatoire de Paris</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -1.674733, 48.105705 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRBR02.jpg' target='_blank'>Rennes</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -3.52694, 48.78361 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRBR03.jpg' target='_blank'>Pleumeur Bodou</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 3.865493, 43.632701 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLR01.jpg' target='_blank'>Montpellier</a>"}
+      },
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 0.644889, 44.687627 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ07.jpg' target='_blank'>Cavarc</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 0.64692777, 48.1854166 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO04.jpg' target='_blank'>La Ferté Bernard</a>"}
+      }, 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -1.446223,   48.663645 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO06.jpg' target='_blank'>Vains</a>"}
+      }, 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -0.742004,   42.974579 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRAQ05.jpg' target='_blank'>Arette - Pierre Saint Martin</a>"}
+      },  
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  0.16392777,   48.0157027 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRPL05.jpg' target='_blank'>Le Mans</a>"}
+      }, 
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  6.15532,   48.655895 ]}, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO01.jpg' target='_blank'>Nancy</a>"}
+      },       
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -1.727918,   49.630688 ]}, 
+         "properties": {"marker-color": "#aa0000",
+         "Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO07.jpg' target='_blank'>Ludiver</a>"}},    
+        
+      
+       
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  1.545574,   47.511982 ]},
+         "properties": {
+         "Name":"<a href='http://www.picdumidi.eu/fripon/BSA/ImageLastFTP_AllSKY.jpg' target='_blank'>Fontaine en Sologne</a>" }} ,
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  6.906928,   44.696831 ]},
+         "properties": {
+         "Name":"Pic de Chateau Renard (Saint Véran)" }} ,
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -3.15393,   47.30337 ]}, 
+          "properties": {"marker-color": "#aa0000","Name":"Belle Ile (radio) "} } ,
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  1.72589444,   44.74489722 ]}, 
+          "properties": {"marker-color": "#aa0000","Name":"Gramat (radio)"} } ,        
+        
+     
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  3.323283,   49.835909 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Saint Quentin"} },    
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.798909,   49.399648 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Compiègne"}  },  
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.299466,   49.89907 ]}, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRPI01.jpg' target='_blank'>Amiens</a>"}  },  
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  0.380771,   46.565781 ]}, 
+          "properties": {"marker-color": "#222222","Name":"poitiers"}  }, 
+ 
+      
+           { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  6.743884,   45.232403 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Aussois"}  }, 
+        
+        
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  6.664958,   45.85603 ]},
+          "properties": {"marker-color": "#222222","Name":"Mont d'Arbois"}  }, 
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  5.908228,   44.634159 ]}, 
+           "properties": {"marker-color": "#222222","Name":"Pic de Bure"}  }, 
+    
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  8.80435,    41.897825 ]}, 
+       "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCO03.jpg' target='_blank'>Ajaccio</a>" }}, 
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [   2.522362,    48.362668 ]}, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRIF06.jpg' target='_blank'>Le Vaudoué</a>" } }, 
+        
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  4.390887,    44.621016 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRRA06.jpg' target='_blank'>Aubenas</a>" }  }, 
+      
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -0.48194,    48.765 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Flers"}  }, 
+
+          { "type": "Feature", 
+        "geometry": {"type": "Point", "coordinates": [  1.866338,    46.52921 ]}, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCE07.jpg' target='_blank'>Saint Denis de Jouhet</a>" }  }, 
+        
+        
+        
+        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-2.948486,43.262180]}, 
+          "properties": {"marker-color": "#FF4400","Name":"Bilbao"}},
+        
+        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.736828,42.024775]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA01.jpg' target='_blank'>Montsec</a>"}},
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.119061,41.391765]},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA02.jpg' target='_blank'>Barcelona</a>"}},
+        
+        
+        
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.357075,50.796728]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEBR01.jpg' target='_blank'>Bruxelles</a>"} },
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [5.565467,50.582154]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEWA01.jpg' target='_blank'>Liège</a>"} },
+
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLWN01.jpg' target='_blank'>Noordwijk</a>"}},
+      
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.53767, 51.57192]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLWN02.jpg' target='_blank'>Oostkapelle</a>"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 6.5256694,  53.2494583]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLNN01.jpg' target='_blank'>Groningen</a>"}},
+         { "type": "Feature",
+         "geometry": {"type": "Point", "coordinates": [ 7.00643,  52.37249]},
+         "properties": {"marker-color":"#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLEN01.jpg' target='_blank'>Denekamp</a>"}},
+   
+        
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_stack.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
+      },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 7.713935,  53.773939]},   
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI03.jpg' target='_blank'>Spiekeroog</a>"}
+      },
+        
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 11.720225,  48.545182]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY02.jpg' target='_blank'>Seysdorf </a>"}
+      },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  10.486876,   48.853913]},
+          "properties": {"marker-color": "#222222","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY01.jpg' target='_blank'>Nordlingen </a>"}
+      },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  13.758098,    48.823929]},
+          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY03.jpg' target='_blank'>Haidmühle </a>"}
+      },  { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  12.631277,    52.495]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBB01.jpg' target='_blank'>Ketzür </a>"}
+      },
+        
+        
+       { "type": "Feature",   
+        "geometry": {"type": "Point", "coordinates": [  9.798961,    54.908907]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DKSD01.jpg' target='_blank'>Sonderborg </a>"}
+      },     
+        
+        
+        
+      
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.764905,45.041209]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITPI01.jpg' target='_blank'>Pino Torinese</a>"}
+      },
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.944020,44.6111182]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITPI06pg' target='_blank'>Barolo</a>"}
+      },
+      
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 14.645457,  41.063718]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP04.jpg' target='_blank'>Montesarchio </a>"}
+      },
+        
+      
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 11.3324232,  44.2557684]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER01.jpg' target='_blank'>Loiano </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 11.64472222,  44.52444444]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER03.jpg' target='_blank'>Medicinao </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 9.632487,  44.507693]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER04.jpg' target='_blank'>Bedonia </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 9.72503,  45.035376]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER05.jpg' target='_blank'>Piacenza </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 10.657597222,  44.591002778]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER06.jpg' target='_blank'>Scandiano </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [13.104741,   41.656789]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLA02.jpg' target='_blank'>Gorga </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.08404157150, 44.81243685812243]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI03.jpg' target='_blank'>Cecima </a>"}
+      },
+        
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.326975,  44.178546]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Finale Ligure </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.5825,  45.718833333]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO01.jpg' target='_blank'>Brembate di Sopra </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.541148,  44.385146]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI02.jpg' target='_blank'>Cuneo</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.437222,  44.9125]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI03.jpg' target='_blank'>Felezzano</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.618194444,  44.923833333]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI05.jpg' target='_blank'>Alessandria</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [17.147777,  40.875611]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU01.jpg' target='_blank'>Castellana Grotte</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [14.016666,  37.9375]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI01.jpg' target='_blank'>Isnello</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [10.804167,  44.063056]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO01.jpg' target='_blank'> San Marcello Pistoiese </a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [10.491633,  43.6832]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO02.jpg' target='_blank'>Navacchio</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.4783333,  45.7898611]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVA01.jpg' target='_blank'>Lignan</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.86854083, 45.4019454 ]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE01.jpg' target='_blank'>Padova</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.795048, 45.081666 ]},
+          "properties": {"marker-color": "#00aa00","marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Rovigo</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.56834296, 45.84941781 ]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Asiago</a>"}
+      }, { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.2580555, 44.8271 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI04.jpg' target='_blank'>Luserna san Giovanni</a>"}
+      },{ "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [13.2991430966919, 38.187447618061641 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI02.jpg' target='_blank'>Palermo</a>"}},
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [13.8542658149, 45.6422230180758251 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITFV01.jpg' target='_blank'>Trieste</a>"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [12.392745, 44.089660 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER02.jpg' target='_blank'>Savignano Sul Rubicone</a>"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.938199138528717, 44.42491573430273 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI01.jpg' target='_blank'>Genova</a>"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.428459, 45.705858 ]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO04.jpg' target='_blank'>Merate</a>"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.42556231813739, 45.32744623278966 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Vercelli"}},
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [13.731116, 43.301583 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Civitanova Marche"}},
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.98121940689395, 46.188211749908056 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO05.jpg' target='_blank'>Ponte Valtelina</a>"}},
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.14333474235843, 46.0647400100266 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTA01.jpg' target='_blank'>Trento</a>"}},
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [12.0317252834350943, 46.28418375737004 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE04.jpg' target='_blank'>Agordo</a>"}},
+        
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.5174274, 45.5583811 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE05.jpg' target='_blank'>Vicenza</a>"}},
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.1921165, 45.6378231 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Marana di Crespadoro"}},
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [9.130760, 39.281950 ]}, 
+          "properties": {"marker-color": "#222222","Name":"Selargius"}},
+         { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.043198, 43.755337 ]},
+          "properties": {"marker-color": "#222222","Name":"Montelupo Fiorentino"}},
+        
+       
+        
+        
+        
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER07.jpg' target='_blank'>Monteromano</a>"}},
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [11.254372,  43.750590 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO03.jpg' target='_blank'>Arcetri</a>"}},
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [14.1398676,  41.1234241 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP02.jpg' target='_blank'>Capua</a>"}},
+        
+        
+   { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [10.335512,  36.880681 ]}, 
+          "properties": {"marker-color": "#005500","Name":"La Marsa (not active)"}},
+        
+   
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.230453010371433, 45.88204955936525 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO02.jpg' target='_blank'>Sormano</a>"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [15.66050999956439, 38.11924542514929 ]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCL01.jpg' target='_blank'>Reggio Calabria</a>"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [18.36628222065280, 39.92356748555726]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA01.jpg' target='_blank'>Tricase</a>"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [18.11188274221729, 40.33598353355011]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU02.jpg' target='_blank'>Lecce</a>"}},
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [12.647399540713536, 41.83864704831213]}, 
+          "properties": {"marker-color": "#222222","Name":"Roma"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [13.06606353419135, 43.13476083317582]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA01.jpg' target='_blank'>Camerino</a>"}},
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.2463141341717125, 43.52352816765794]}, 
+        "properties": {"marker-color": "#222222","Name":"Chianti"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [14.338643, 41.078800]}, 
+        "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP03.jpg' target='_blank'>Caserta</a>"}},
+        
+      
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [23.5937148, 46.7102406]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-1.png' target='_blank'>Feleac</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [22.8850633,45.6134068]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-2.png' target='_blank'>Berthelot</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [23.0751838,46.6609761]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-3.png' target='_blank'>Mărișel</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [25.9625392, 45.0027304]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-4.png' target='_blank'>Păulești</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [21.2307929,45.7380603]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-5.png' target='_blank'>Timișoara</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-6.png' target='_blank'>București</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [23.8744526,47.1556528]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-7.png' target='_blank'>Dej</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [28.0319187, 45.4191328]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-8.png' target='_blank'>Galati</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [27.6716757, 46.2308469]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-9.png' target='_blank'>Barlad</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [21.7133183, 45.3757458]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-10.png' target='_blank'>Bocșa</a>"}
+      },
+       
+
+        
+        
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_GBWL01.jpg' target='_blank'>Cardiff</a>"}
+      },    
+     
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3.184408,50.801832]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Honinton</a>"}
+      },
+          { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-6.649632,54.352350]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNI01.jpg' target='_blank'>Armagh</a>"}
+      },
+         { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-2.233606,53.474365]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNW01.jpg' target='_blank'>Manchester</a>"}
+      },
+         { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-0.169234,51.637359]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENGL01.jpg' target='_blank'>EastBarnet</a>"}
+      },
+         { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-1.307598,51.57617]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENGL02.jpg' target='_blank'>Harwell</a>"}
+      },
+          { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [1.07208,51.2735]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE02.jpg' target='_blank'>Canterbury</a>"}
+      },
+        
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.4206861,47.35174]},  
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHJU01.jpg' target='_blank'>Vicques</a>"}
+      },
+        
+        
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  7.612612, 46.228230]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHVA01.jpg' target='_blank'>Saint Luc</a>"}
+      },
+        
+  
+        
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-7.935888,32.218475]}, 
+          "properties": {"marker-color": "#005500","Name":"Ben Guerir (not active)"}
+      },
+          
+        
+ 
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13.0,    51.0]},
+          "properties": {"Name":"<a href='https://www.fripon.org/?lang=en ' target='_blank'>FRIPON Camera (France)</a>"    }
+      },
+
+            { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13.0,    50.0]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/spip.php?article42' target='_blank'>FRIPON Camera + Radio (Europe)</a>"    }
+      },    
+        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13.0,    49.0]},
+          "properties": {"marker-color": "#000000","Name":"To be installed"}
+      },
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    48.0]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.prisma.inaf.it/' target='_blank'>PRISMA (Italia)</a>"}    
+      },
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    47.0]},
+          "properties": {"marker-color": "#FF9900","Name":"MOROI (Romania)"}
+      },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    46.0]},
+          "properties": {"marker-color": "#888888", "Name":"<a href='https://ukmeteornetwork.co.uk/SCAMP/' target='_blank'>SCAMP (UK)</a>"}
+         
+      },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    45.0]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/spip.php?article60' target='_blank'>e-FRIPON (Europe)</a>"}
+      },
+        
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    44.0]},
+          "properties": {"marker-color": "#ff4400","Name":"<a href='http://www.spmn.uji.es/ESP/SPMNlist.html' target='_blank'>SPMN (Spain)</a>"}
+      },
+       
+     
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    43.0]},
+          "properties": {"marker-color": "#ff4400","Name":"<a href='http://www.spmn.uji.es/ESP/SPMNlist.html' target='_blank'>SPMN (Spain)</a>"}
+      },
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    44.0]},
+          "properties": {"marker-color": "#005500","Name":"FRIPON North Africa"} 
+      } 
+      
+       
+     
+        
+    ]}
