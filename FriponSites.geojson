@@ -846,6 +846,15 @@
           "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC01.jpg' target='_blank'>Montréal </a>"}
       },  
         
+
+        
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -74.207169, 46.030661]},
+          "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC06.jpg' target='_blank'>Val-David </a>"}
+      },  
+        
+        
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.3112589, 45.493749]},
           "properties": {"marker-color": "#0044CC","Name":"Val Saint François"}
