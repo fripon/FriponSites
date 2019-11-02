@@ -33,9 +33,9 @@
         "geometry": {"type": "Point", "coordinates": [-0.593,44.807861]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ01.jpg' target='_blank'>FRAQ01 - Talence</a>"}
       },
-      { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [2.97725190000006,43.1891644]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR03.jpg' target='_blank'>FRLR03 - Narbonne</a>"}
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.873871,43.163634]}, 
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR07.jpg' target='_blank'>Bizanet</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-1.030453,43.693376]},
@@ -81,6 +81,11 @@
         "geometry": {"type": "Point", "coordinates": [  -1.727918,   49.630688 ]}, 
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO07.jpg' target='_blank'>FRNO07 - Ludiver</a>"}
       }, 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.92381,44.88337]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA09.jpg' target='_blank'>Beaumont les Valence</a>"}
+      },
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -3.15393,   47.30337 ]}, 
           "properties": {"marker-color": "#aa0000","Name":"FRBR05 - Belle Ile (radio) "}    }
