@@ -85,6 +85,10 @@
         "geometry": {"type": "Point", "coordinates": [4.92381,44.88337]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRRA09.jpg' target='_blank'>Beaumont les Valence</a>"}
       },
+           { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
+      },
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -3.15393,   47.30337 ]}, 
