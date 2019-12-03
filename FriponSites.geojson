@@ -601,7 +601,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.08404157150, 44.81243685812243]},
-          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI03.jpg' target='_blank'>Cecima </a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO03.jpg' target='_blank'>Cecima </a>"}
       },
         
        { "type": "Feature",
