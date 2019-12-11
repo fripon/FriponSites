@@ -927,7 +927,7 @@
         
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -70.390790,    -24.615923]},
-          "properties": {"marker-color": "#000000","Name":"ESO - Paranal"} 
+          "properties": {"marker-color": "#00ffff","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLAN01.jpg' target='_blank'>Paranal</a>"} 
       }  ,
         
            { "type": "Feature",
