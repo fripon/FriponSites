@@ -699,12 +699,18 @@
           "properties": {"marker-color": "#222222","Name":"Marana di Crespadoro"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [9.130760, 39.281950 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Selargius"}},
+           "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA01.jpg' target='_blank'>Selargius</a>"}},
+        
          { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.043198, 43.755337 ]},
           "properties": {"marker-color": "#222222","Name":"Montelupo Fiorentino"}},
         
-       
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.732134, 40.582454 ]},  
+          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA02.jpg' target='_blank'>Siligo</a>"}},
+        
+        
+        
         
         
         
