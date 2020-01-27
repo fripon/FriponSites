@@ -699,7 +699,7 @@
           "properties": {"marker-color": "#222222","Name":"Marana di Crespadoro"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [9.130760, 39.281950 ]}, 
-           "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA01.jpg' target='_blank'>Selargius</a>"}},
+           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA01.jpg' target='_blank'>SardiniaRadioTelescope</a>"}},
         
          { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.043198, 43.755337 ]},
