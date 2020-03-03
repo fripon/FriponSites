@@ -731,10 +731,7 @@
           "geometry": {"type": "Point", "coordinates": [14.1398676,  41.1234241 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP02.jpg' target='_blank'>Capua</a>"}},
         
-        
-   { "type": "Feature",
-          "geometry": {"type": "Point", "coordinates": [10.335512,  36.880681 ]}, 
-          "properties": {"marker-color": "#000000","Name":"La Marsa (not active)"}},
+       
         
    
         
