@@ -801,7 +801,10 @@
         "geometry": {"type": "Point", "coordinates": [21.7133183, 45.3757458]},
           "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-10.png' target='_blank'>Bocșa</a>"}
       },
-       
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [27.252629, 47.054442]},
+          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-11.png' target='_blank'>Mădârjac</a>"}
+        },
 
         
         
