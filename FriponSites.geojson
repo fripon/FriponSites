@@ -529,6 +529,13 @@
         "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
       },
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 11.325483,  53.220087]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEMV01.jpg' target='_blank'>Conow</a>"}
+      },
+        
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 7.713935,  53.773939]},   
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI03.jpg' target='_blank'>Spiekeroog</a>"}
