@@ -667,7 +667,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPI04.jpg' target='_blank'>Luserna san Giovanni</a>"}
       },{ "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [14.978864, 37.691831 ]},  
-          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI02.jpg' target='_blank'>Serra La Nave</a>"}},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI03.jpg' target='_blank'>Serra La Nave</a>"}},
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [13.2991430966919, 38.187447618061641 ]}, 
