@@ -572,9 +572,15 @@
       },
         
         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [10.498144,42.932873]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITTO06pg' target='_blank'>Piombino</a>"}
+      },
+        
+         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.944020,44.6111182]},
           "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITPI06pg' target='_blank'>Barolo</a>"}
       },
+        
       
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 14.645457,  41.063718]},
