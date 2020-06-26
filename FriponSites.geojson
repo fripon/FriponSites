@@ -573,7 +573,7 @@
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [10.498144,42.932873]},
-          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITTO06pg' target='_blank'>Piombino</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITTO06.jpg' target='_blank'>Piombino</a>"}
       },
         
          { "type": "Feature",
