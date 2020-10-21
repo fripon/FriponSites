@@ -724,17 +724,9 @@
          { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.043198, 43.755337 ]},
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO04.jpg' target='_blank'>Montelupo Fiorentino</a>"}},
-      
-        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.732134, 40.582454 ]},  
-          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA02.jpg' target='_blank'>Siligo</a>"}},
-        
-        
-        
-        
-        
-        
+          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA02.jpg' target='_blank'>Siligo</a>"}},        
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER07.jpg' target='_blank'>Monteromano</a>"}},
@@ -769,7 +761,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA01.jpg' target='_blank'>Camerino</a>"}},
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.2463141341717125, 43.52352816765794]}, 
-        "properties": {"marker-color": "#222222","Name":"Chianti"}},
+         "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO05.jpg' target='_blank'>Chianti</a>"}},
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [14.338643, 41.078800]}, 
         "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP03.jpg' target='_blank'>Caserta</a>"}},
