@@ -698,7 +698,8 @@
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [13.731116, 43.301583 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Civitanova Marche"}},
+        "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA02.jpg' target='_blank'>Civitanova Marche</a>"}},
+        
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.98121940689395, 46.188211749908056 ]}, 
