@@ -789,7 +789,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
-          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-6.png' target='_blank'>București</a>"}
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROIF01.jpg' target='_blank'>București</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.8744526,47.1556528]},
@@ -809,10 +809,14 @@
       },
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [27.252629, 47.054442]},
-          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-11.png' target='_blank'>Mădârjac</a>"}
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROIS01.jpg' target='_blank'>Mădârjac</a>"}
         },
 
-        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [26.904388, 46.565651]},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROBC01.jpg' target='_blank'>Bacău</a>"}
+        },
+       
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
