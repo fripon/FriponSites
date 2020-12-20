@@ -139,10 +139,7 @@
         "geometry": {"type": "Point", "coordinates": [-1.749297222,43.377447222]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ03.jpg' target='_blank'>Hendaye</a>"}
       },
-      { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [26.0963125,44.414]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ROIF01.jpg' target='_blank'>Bucureşti</a>"}
-      },
+      
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.020833,48.931944]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL03.jpg' target='_blank'>Sarralbe</a>"}
@@ -790,6 +787,9 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROIF01.jpg' target='_blank'>București</a>"}
+       
+     
+       
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.8744526,47.1556528]},
@@ -811,18 +811,27 @@
         "geometry": {"type": "Point", "coordinates": [27.252629, 47.054442]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROIS01.jpg' target='_blank'>Mădârjac</a>"}
         },
-
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.904388, 46.565651]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROBC01.jpg' target='_blank'>Bacău</a>"}
         },
-       
+        
+        
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [28.652588, 44.020008]},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROCT01.jpg' target='_blank'>Eforie Sud</a>"}
+        },
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [23.563791, 47.657787]},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROMM01.jpg' target='_blank'>Baia Mare</a>"}
+        },
+        
+        
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_GBWL01.jpg' target='_blank'>Cardiff</a>"}
       },    
-     
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-3.184408,50.801832]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Honinton</a>"}
