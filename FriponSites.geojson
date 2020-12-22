@@ -662,6 +662,13 @@
         "geometry": {"type": "Point", "coordinates": [11.795048, 45.081666 ]},
           "properties": {"marker-color": "#00aa00","marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Rovigo</a>"}
       },
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [10.858861,  45.697604 ]},
+          "properties": {"marker-color": "#00aa00","marker-color": "#000800","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE06.jpg' target='_blank'>Novezzina</a>"}
+      },
+        
+        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.56834296, 45.84941781 ]},
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE02.jpg' target='_blank'>Asiago</a>"}
@@ -706,7 +713,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO05.jpg' target='_blank'>Ponte Valtelina</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.14333474235843, 46.0647400100266 ]}, 
-          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTA01.jpg' target='_blank'>Trento</a>"}},
+          "properties": {"marker-color": "#000800","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTA01.jpg' target='_blank'>Trento</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [12.0317252834350943, 46.28418375737004 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE04.jpg' target='_blank'>Agordo</a>"}},
