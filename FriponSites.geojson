@@ -426,11 +426,11 @@
      
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  3.323283,   49.835909 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Saint Quentin"} },    
+          "properties": {"marker-color": "#000044","Name":"Saint Quentin"} },    
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.798909,   49.399648 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Compiègne"}  },  
+          "properties": {"marker-color": "#000044","Name":"Compiègne"}  },  
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.299466,   49.89907 ]}, 
@@ -438,22 +438,22 @@
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  0.380771,   46.565781 ]}, 
-          "properties": {"marker-color": "#222222","Name":"poitiers"}  }, 
+          "properties": {"marker-color": "#000044","Name":"poitiers"}  }, 
  
       
            { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  6.743884,   45.232403 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Aussois"}  }, 
+          "properties": {"marker-color": "#000044","Name":"Aussois"}  }, 
         
         
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  6.664958,   45.85603 ]},
-          "properties": {"marker-color": "#222222","Name":"Mont d'Arbois"}  }, 
+          "properties": {"marker-color": "#000044","Name":"Mont d'Arbois"}  }, 
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  5.908228,   44.634159 ]}, 
-           "properties": {"marker-color": "#222222","Name":"Pic de Bure"}  }, 
+           "properties": {"marker-color": "#000044","Name":"Pic de Bure"}  }, 
     
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  8.80435,    41.897825 ]}, 
@@ -470,7 +470,7 @@
       
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -0.48194,    48.765 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Flers"}  }, 
+          "properties": {"marker-color": "#000044","Name":"Flers"}  }, 
 
           { "type": "Feature", 
         "geometry": {"type": "Point", "coordinates": [  1.866338,    46.52921 ]}, 
@@ -665,7 +665,7 @@
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [10.858861,  45.697604 ]},
-          "properties": {"marker-color": "#00aa00","marker-color": "#000800","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE06.jpg' target='_blank'>Novezzina</a>"}
+          "properties": {"marker-color": "#00aa00","marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE06.jpg' target='_blank'>Novezzina</a>"}
       },
         
         
@@ -697,7 +697,7 @@
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [12.208465,  44.413787 ]}, 
-          "properties": {"marker-color": "#000800","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER08.jpg' target='_blank'>Ravenna</a>"}},
+          "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER08.jpg' target='_blank'>Ravenna</a>"}},
         
         
         
@@ -709,7 +709,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO04.jpg' target='_blank'>Merate</a>"}},
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.42556231813739, 45.32744623278966 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Vercelli"}},
+          "properties": {"marker-color": "#004400","Name":"Vercelli"}},
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [13.731116, 43.301583 ]}, 
@@ -721,7 +721,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLO05.jpg' target='_blank'>Ponte Valtelina</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.14333474235843, 46.0647400100266 ]}, 
-          "properties": {"marker-color": "#000800","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTA01.jpg' target='_blank'>Trento</a>"}},
+          "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTA01.jpg' target='_blank'>Trento</a>"}},
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [12.0317252834350943, 46.28418375737004 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE04.jpg' target='_blank'>Agordo</a>"}},
@@ -741,7 +741,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO04.jpg' target='_blank'>Montelupo Fiorentino</a>"}},
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.732134, 40.582454 ]},  
-          "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA02.jpg' target='_blank'>Siligo</a>"}},        
+          "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA02.jpg' target='_blank'>Siligo</a>"}},        
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER07.jpg' target='_blank'>Monteromano</a>"}},
@@ -770,7 +770,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU02.jpg' target='_blank'>Lecce</a>"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.254149,  40.120940]}, 
-        "properties": {"marker-color": "#000A00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA03.jpg' target='_blank'>Fonni</a>"}},
+        "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA03.jpg' target='_blank'>Fonni</a>"}},
         
         
         
@@ -789,7 +789,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITUM02.jpg' target='_blank'>Amelia</a>"}},
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.816585,  42.915558]}, 
-          "properties": {"marker-color": "#000a00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO07.jpg' target='_blank'>Radicafoni</a>"}},
+          "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO07.jpg' target='_blank'>Radicafoni</a>"}},
         
         
         
