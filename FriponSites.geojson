@@ -774,6 +774,21 @@
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [13.06606353419135, 43.13476083317582]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA01.jpg' target='_blank'>Camerino</a>"}},
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [12.319722,  43.131943]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITUM01.jpg' target='_blank'>Perugia</a>"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [12.386472,  42.532308]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITUM02.jpg' target='_blank'>Amelia</a>"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [11.816585,  42.915558]}, 
+          "properties": {"marker-color": "#000a00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO07.jpg' target='_blank'>Radicafoni</a>"}},
+        
+        
+        
+        
+        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.2463141341717125, 43.52352816765794]}, 
          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO05.jpg' target='_blank'>Chianti</a>"}},
