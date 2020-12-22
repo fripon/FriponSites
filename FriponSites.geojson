@@ -691,8 +691,16 @@
         "geometry": {"type": "Point", "coordinates": [12.778944, 45.861868 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITFV02.jpg' target='_blank'>Chions</a>"}},
         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [12.392745, 44.089660 ]}, 
+        "geometry": {"type": "Point", "coordinates": [12.208465, 44.089660 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER02.jpg' target='_blank'>Savignano Sul Rubicone</a>"}},
+        
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [12.208465,  44.413787 ]}, 
+          "properties": {"marker-color": "#000800","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER08.jpg' target='_blank'>Ravenna</a>"}},
+        
+        
+        
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.938199138528717, 44.42491573430273 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI01.jpg' target='_blank'>Genova</a>"}},
