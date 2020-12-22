@@ -769,8 +769,14 @@
         "geometry": {"type": "Point", "coordinates": [18.11188274221729, 40.33598353355011]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU02.jpg' target='_blank'>Lecce</a>"}},
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [12.647399540713536, 41.83864704831213]}, 
-          "properties": {"marker-color": "#222222","Name":"Roma"}},
+        "geometry": {"type": "Point", "coordinates": [9.254149,  40.120940]}, 
+        "properties": {"marker-color": "#000A00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA03.jpg' target='_blank'>Fonni</a>"}},
+        
+        
+        
+        
+        
+        
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [13.06606353419135, 43.13476083317582]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA01.jpg' target='_blank'>Camerino</a>"}},
