@@ -429,6 +429,12 @@
           "properties": {"marker-color": "#000044","Name":"Saint Quentin"} },    
         
         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  3.221619,   43.969944 ]}, 
+          "properties": {"marker-color": "#000044","Name":"Larzac"} },  
+        
+   
+        
+        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.798909,   49.399648 ]}, 
           "properties": {"marker-color": "#000044","Name":"Compiègne"}  },  
         
