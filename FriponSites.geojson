@@ -909,10 +909,14 @@
       },
         
         
+   
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-7.935888,32.218475]}, 
-          "properties": {"marker-color": "#000000","Name":"Ben Guerir, not active"}
-      },
+        "geometry": {"type": "Point", "coordinates": [-8.11418,31.53955]}, 
+          "properties": {"marker-color": "#FF0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Marrakech</a>"}
+       },  
+        
+        
+        
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  7.612612, 46.228230]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHVA01.jpg' target='_blank'>Saint Luc</a>"}
