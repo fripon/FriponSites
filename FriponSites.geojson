@@ -912,7 +912,7 @@
    
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-8.11418,31.53955]}, 
-          "properties": {"marker-color": "#FF0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Marrakech</a>"}
+          "properties": {"marker-color": "#FF0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Parc des oliviers, Agafay, Marrakech</a>"}
        },  
         
         
