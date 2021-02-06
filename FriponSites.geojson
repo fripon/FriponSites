@@ -839,13 +839,6 @@
         "geometry": {"type": "Point", "coordinates": [26.24525,47.64188]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROSV01.jpg' target='_blank'>Suceava</a>"}
       },
-        
-        
-     
-        
-        
-        
-        
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.8744526,47.1556528]},
           "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-7.png' target='_blank'>Dej</a>"}
@@ -860,7 +853,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [21.7133183, 45.3757458]},
-          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-10.png' target='_blank'>Bocșa</a>"}
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROCS01.jpg' target='_blank'>Bocșa</a>"}
       },
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [27.252629, 47.054442]},
@@ -870,8 +863,6 @@
         "geometry": {"type": "Point", "coordinates": [26.904388, 46.565651]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROBC01.jpg' target='_blank'>Bacău</a>"}
         },
-        
-        
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [28.652588, 44.020008]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROCT01.jpg' target='_blank'>Eforie Sud</a>"}
@@ -880,6 +871,9 @@
         "geometry": {"type": "Point", "coordinates": [23.563791, 47.657787]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROMM01.jpg' target='_blank'>Baia Mare</a>"}
         },
+        
+        
+        
         
         
         
