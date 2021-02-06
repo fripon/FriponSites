@@ -809,6 +809,8 @@
         "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP03.jpg' target='_blank'>Caserta</a>"}},
         
       
+        
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.5937148, 46.7102406]},
           "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-1.png' target='_blank'>Feleac</a>"}
@@ -827,15 +829,23 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [21.2307929,45.7380603]},
-          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-5.png' target='_blank'>Timișoara</a>"}
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROTM01.jpg' target='_blank'>Timișoara</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROIF01.jpg' target='_blank'>București</a>"}
-       
-     
-       
       },
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [26.24525,47.64188]},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROSV01.jpg' target='_blank'>Suceava</a>"}
+      },
+        
+        
+     
+        
+        
+        
+        
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.8744526,47.1556528]},
           "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-7.png' target='_blank'>Dej</a>"}
