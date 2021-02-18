@@ -671,7 +671,7 @@
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [10.858861,  45.697604 ]},
-          "properties": {"marker-color": "#00aa00","marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE06.jpg' target='_blank'>Novezzina</a>"}
+          "properties": {"marker-color": "#00aa00","marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITVE06.jpg' target='_blank'>Novezzina</a>"}
       },
         
         
