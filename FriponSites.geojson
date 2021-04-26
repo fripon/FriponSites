@@ -686,6 +686,10 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI03.jpg' target='_blank'>Serra La Nave</a>"}},
         
         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [13.7347964, 37.3999086 ]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI04.jpg' target='_blank'>Racalmuto</a>"}},
+        
+        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [13.2991430966919, 38.187447618061641 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI03.jpg' target='_blank'>Palermo</a>"}},
         
