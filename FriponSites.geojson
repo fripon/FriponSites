@@ -829,7 +829,7 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [25.9625392, 45.0027304]},
-          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-4.png' target='_blank'>Păulești</a>"}
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROPH01.jpg' target='_blank'>Păulești</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [21.2307929,45.7380603]},
