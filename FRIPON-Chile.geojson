@@ -1,0 +1,43 @@
+{ "type": "FeatureCollection",
+    "features": [
+    
+        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -70.390790,    -24.615923]},
+          "properties": {"marker-color": "#00ffff","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLAN01.jpg' target='_blank'>Paranal</a>"} 
+      } ,
+           { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -70.764949,    -30.471006]},
+          "properties": {"marker-color": "#009999","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLCO04.jpg' target='_blank'>El Sauce</a>"} 
+      } ,
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -70.739617,    -29.254896]},
+          "properties": {"marker-color": "#009999","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLCO01.jpg' target='_blank'>La Silla</a>"} 
+      }  ,  
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -70.801743,      -30.169588]},
+          "properties": {"marker-color": "#009999","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLCO02.jpg' target='_blank'>Cerro Totolo</a>"} 
+      } ,        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -69.929114,      -24.090876]},
+          "properties": {"marker-color": "#009999","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLAN02.jpg' target='_blank'>Ckoirama</a>"} 
+      } ,        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -68.179331,      -22.953439]},
+          "properties": {"marker-color": "#009999","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLAN03.jpg' target='_blank'>San Pedro de Atacama</a>"} 
+      } , 
+            { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -68.066635,      -23.682504]},
+          "properties": {"marker-color": "#009999","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLAN04.jpg' target='_blank'>Peine</a>"} 
+      } , 
+           { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -69.845403,      -23.334861]},
+          "properties": {"marker-color": "#009999","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLAN05.jpg' target='_blank'>Baqueano</a>"} 
+      } , 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -68.645403,      -22.335221]},
+          "properties": {"marker-color": "#009999","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLAN06.jpg' target='_blank'>Chiuchiu</a>"} 
+      } 
+     
+        
+    ]}
