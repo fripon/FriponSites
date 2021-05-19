@@ -887,7 +887,7 @@
       },    
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-3.184408,50.801832]},
-          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Honinton</a>"}
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Honiton</a>"}
       },
           { "type": "Feature",  
         "geometry": {"type": "Point", "coordinates": [-6.649632,54.352350]},
@@ -909,6 +909,12 @@
         "geometry": {"type": "Point", "coordinates": [1.07208,51.2735]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE02.jpg' target='_blank'>Canterbury</a>"}
       },
+           { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [0.290151,50.76884]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE03.jpg' target='_blank'>Eastbourne</a>"}
+      },
+        
+        
         
         
          { "type": "Feature",
