@@ -910,11 +910,9 @@
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE02.jpg' target='_blank'>Canterbury</a>"}
       },
            { "type": "Feature",  
-        "geometry": {"type": "Point", "coordinates": [0.290151,50.76884]},
+        "geometry": {"type": "Point", "coordinates": [0.26582,50.75718]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE03.jpg' target='_blank'>Eastbourne</a>"}
       },
-        
-        
         
         
          { "type": "Feature",
