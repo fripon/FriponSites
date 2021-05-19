@@ -1,12 +1,5 @@
 { "type": "FeatureCollection",
     "features": [
-        
-         
-   { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [  5.5136,   47.3477 ]}, 
-    "properties": {"marker-color": "#ff00ff","Name":"Radar GRAVES"} } ,
-     
-        
     { "type": "Feature", 
         "geometry": {"type": "Point",  "coordinates": [2.7422,48.742683]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
@@ -24,6 +17,7 @@
         "geometry": {"type": "Point", "coordinates": [0.819922222,45.823080556]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLI01.jpg' target='_blank'>Rochechouart</a>"}
       },
+  
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.71475,43.933005556]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA03.jpg' target='_blank'>Obs. de Haute Provence</a>"}
@@ -142,6 +136,7 @@
         "geometry": {"type": "Point", "coordinates": [-1.749297222,43.377447222]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAQ03.jpg' target='_blank'>Hendaye</a>"}
       },
+      
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.020833,48.931944]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRAL03.jpg' target='_blank'>Sarralbe</a>"}
@@ -399,7 +394,7 @@
          "properties": {"marker-color": "#aa0000",
          "Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO07.jpg' target='_blank'>Ludiver</a>"}},    
         
-      
+        
        
         
          { "type": "Feature",
@@ -418,15 +413,23 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  1.72589444,   44.74489722 ]}, 
           "properties": {"marker-color": "#aa0000","Name":"Gramat (radio)"} } ,        
-        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  5.5136,   47.3477 ]}, 
+          "properties": {"marker-color": "#ff00ff","Name":"Radar GRAVES"} } , 
      
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  3.323283,   49.835909 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Saint Quentin"} },    
+          "properties": {"marker-color": "#000044","Name":"Saint Quentin"} },    
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  3.221619,   43.969944 ]}, 
+          "properties": {"marker-color": "#000044","Name":"Larzac"} },  
+        
+   
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.798909,   49.399648 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Compiègne"}  },  
+          "properties": {"marker-color": "#000044","Name":"Compiègne"}  },  
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.299466,   49.89907 ]}, 
@@ -434,22 +437,24 @@
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  0.380771,   46.565781 ]}, 
-          "properties": {"marker-color": "#222222","Name":"poitiers"}  }, 
- 
+          "properties": {"marker-color": "#000044","Name":"poitiers"}  }, 
       
+	  
+	  
            { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  6.743884,   45.232403 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Aussois"}  }, 
-        
-        
+          "properties": {"marker-color": "#000044","Name":"Aussois"}  }, 
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  6.664958,   45.85603 ]},
-          "properties": {"marker-color": "#222222","Name":"Mont d'Arbois"}  }, 
+          "properties": {"marker-color": "#000044","Name":"Mont d'Arbois"}  }, 
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  5.908228,   44.634159 ]}, 
-           "properties": {"marker-color": "#222222","Name":"Pic de Bure"}  }, 
+           "properties": {"marker-color": "#000044","Name":"Pic de Bure"}  }, 
+		   
+		   
+		   
     
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  8.80435,    41.897825 ]}, 
@@ -466,33 +471,11 @@
       
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -0.48194,    48.765 ]}, 
-          "properties": {"marker-color": "#222222","Name":"Flers"}  }, 
+          "properties": {"marker-color": "#000044","Name":"Flers"}  }, 
 
           { "type": "Feature", 
         "geometry": {"type": "Point", "coordinates": [  1.866338,    46.52921 ]}, 
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCE07.jpg' target='_blank'>Saint Denis de Jouhet</a>" }  }, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCE07.jpg' target='_blank'>Saint Denis de Jouhet</a>" }  }
         
-        
-        
-        
-
-      
-        
- 
-        
-         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -10.0,    48.0]},
-          "properties": {"Name":"<a href='https://www.fripon.org/?lang=en ' target='_blank'>FRIPON Camera (France)</a>"    }
-      },
-
-            { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -10.0,    47.0]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/spip.php?article42' target='_blank'>FRIPON Camera + Radio (Europe)</a>"    }
-      },    
-        
-          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -10.0,    46.0]},
-          "properties": {"marker-color": "#000000","Name":"To be installed"}
-      }
         
     ]}
