@@ -780,7 +780,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITPU02.jpg' target='_blank'>Lecce</a>"}},
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.254149,  40.120940]}, 
-        "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA03.jpg' target='_blank'>Fonni</a>"}},
+        "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA03.jpg' target='_blank'>Gennargentu</a>"}},
         
         
         
