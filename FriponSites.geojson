@@ -962,14 +962,12 @@
           "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC06.jpg' target='_blank'>Val-David </a>"}
       },     
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -72.83800597, 45.05518]},
-          "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC08.jpg' target='_blank'>Frelighsburgd </a>"}
+        "geometry": {"type": "Point", "coordinates": [  -72.83282, 45.051744]},
+          "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC08.jpg' target='_blank'>Frelighsburg</a>"}
       },   
         
     
       
-          
-        
  
         
          { "type": "Feature",
