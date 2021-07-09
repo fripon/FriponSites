@@ -943,11 +943,11 @@
       },  
            { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.3112589, 45.493749]},
-           "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC02.jpg' target='_blank'>Val Saint François </a>"}
+           "properties": {"marker-color": "#002266","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC02.jpg' target='_blank'>Val Saint François </a>"}
       },  
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.949033,  46.249248]},
-            "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC03.jpg' target='_blank'>Louiseville </a>"}
+            "properties": {"marker-color": "#002266C","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC03.jpg' target='_blank'>Louiseville </a>"}
       },   
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -74.93777, 45.660370]},
@@ -959,7 +959,7 @@
       },  
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -74.207169, 46.030661]},
-          "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC06.jpg' target='_blank'>Val-David </a>"}
+          "properties": {"marker-color": "#002266","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC06.jpg' target='_blank'>Val-David </a>"}
       },     
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.83282, 45.051744]},
