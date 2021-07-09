@@ -938,13 +938,14 @@
         
         
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -73.550269, 45.560747]},
+        "geometry": {"type": "Point", "coordinates": [  -73.550269, 45.494747]},
           "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC01.jpg' target='_blank'>Montréal </a>"}
       },  
            { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -72.3112589, 45.493749]},
+        "geometry": {"type": "Point", "coordinates": [  -72.30939, 45.493749]},
            "properties": {"marker-color": "#002266","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC02.jpg' target='_blank'>Val Saint François </a>"}
       },  
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.949033,  46.249248]},
             "properties": {"marker-color": "#002266","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC03.jpg' target='_blank'>Louiseville </a>"}
