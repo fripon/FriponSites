@@ -947,7 +947,7 @@
       },  
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.949033,  46.249248]},
-            "properties": {"marker-color": "#002266C","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC03.jpg' target='_blank'>Louiseville </a>"}
+            "properties": {"marker-color": "#002266","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC03.jpg' target='_blank'>Louiseville </a>"}
       },   
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -74.93777, 45.660370]},
