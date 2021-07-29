@@ -839,6 +839,14 @@
         "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROIF01.jpg' target='_blank'>București</a>"}
       },
+        
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [24.3097131,43.886834]},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROOT01.jpg' target='_blank'>Obârșia Nouăi</a>"}
+      },
+        
+        
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.24525,47.64188]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROSV01.jpg' target='_blank'>Suceava</a>"}
