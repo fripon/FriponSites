@@ -951,7 +951,7 @@
       },  
            { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.30939, 45.493749]},
-           "properties": {"marker-color": "#002266","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC02.jpg' target='_blank'>Val Saint François </a>"}
+           "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC02.jpg' target='_blank'>Val Saint François </a>"}
       },  
         
          { "type": "Feature",
