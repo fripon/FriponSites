@@ -281,7 +281,7 @@
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.125841667,43.161541667]},
-          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR05.jpg' target='_blank'>Cailhavel</a>"}
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR02.jpg' target='_blank'>Cailhavel</a>"}
       },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.1655706,45.9554738]},
