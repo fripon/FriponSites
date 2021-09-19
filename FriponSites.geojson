@@ -817,7 +817,7 @@
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [23.5937148, 46.7102406]},
-          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-1.png' target='_blank'>Feleac</a>"}
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-1.png' target='_blank'>Feleac</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [22.8850633,45.6134068]},
