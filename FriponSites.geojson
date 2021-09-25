@@ -857,11 +857,11 @@
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [28.0319187, 45.4191328]},
-          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-8.png' target='_blank'>Galati</a>"}
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROGL01.jpg' target='_blank'>Galati</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [27.6716757, 46.2308469]},
-          "properties": {"marker-color": "#FF9900","Name":"<a href='https://observer.astro.ro/moroi-data/moroi-9.png' target='_blank'>Barlad</a>"}
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROVS01.jpg' target='_blank'>Barlad</a>"}
       },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [21.7133183, 45.3757458]},
