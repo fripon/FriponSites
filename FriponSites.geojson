@@ -800,10 +800,11 @@
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.816585,  42.915558]}, 
           "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO07.jpg' target='_blank'>Radicafoni</a>"}},
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [10.31789,  42.81712]}, 
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO08.jpg' target='_blank'>Elba</a>"}},
         
-        
-        
-        
+   
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [11.2463141341717125, 43.52352816765794]}, 
