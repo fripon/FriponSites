@@ -702,15 +702,10 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITFV02.jpg' target='_blank'>Chions</a>"}},
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [12.208465, 44.089660 ]}, 
-          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER02.jpg' target='_blank'>Savignano Sul Rubicone</a>"}},
-        
-        
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER02.jpg' target='_blank'>Savignano Sul Rubicone</a>"}},        
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [12.208465,  44.413787 ]}, 
           "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER08.jpg' target='_blank'>Ravenna</a>"}},
-        
-        
-        
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.938199138528717, 44.42491573430273 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI01.jpg' target='_blank'>Genova</a>"}},
@@ -725,6 +720,11 @@
         "geometry": {"type": "Point", "coordinates": [13.731116, 43.301583 ]}, 
         "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITMA02.jpg' target='_blank'>Civitanova Marche</a>"}},
         
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [15.21422820, 38.794099433 ]}, 
+        "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSI05.jpg' target='_blank'>Strómboli</a>"}},
+        
+   
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.98121940689395, 46.188211749908056 ]}, 
