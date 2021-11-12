@@ -813,6 +813,12 @@
         "geometry": {"type": "Point", "coordinates": [14.338643, 41.078800]}, 
         "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITCP03.jpg' target='_blank'>Caserta</a>"}},
         
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [12.64633653, 41.838662044]}, 
+        "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLA01.jpg' target='_blank'>Roma</a>"}},
+        
+
+        
       
         
         
