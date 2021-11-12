@@ -973,10 +973,12 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -72.83282, 45.051744]},
           "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC08.jpg' target='_blank'>Frelighsburg</a>"}
-      },   
+      },  
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -70.669996, 46.1263972]},
+          "properties": {"marker-color": "#0044CC","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CAQC09.jpg' target='_blank'>Saint Georges</a>"}
+      },  
         
-    
-      
  
         
          { "type": "Feature",
