@@ -1082,8 +1082,8 @@
       } , 
         
         
-          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  12.650409,      41.747376]},
+          { "type": "Feature",     
+        "geometry": {"type": "Point", "coordinates": [  12.6578331,       41.731651]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_VAVA01.jpg' target='_blank'>Vatican</a>"} 
       } , 
         
