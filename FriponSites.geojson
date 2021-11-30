@@ -1062,6 +1062,14 @@
         "geometry": {"type": "Point", "coordinates": [  -13,    42.0]},
           "properties": {"marker-color": "#ff00ff","Name":"<a href='http://f6crp.pagesperso-orange.fr/ba/graves.htm' target='_blank'>GRAVES radar</a>"} 
       } ,
+        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    41.0]},
+          "properties": {"marker-color": "#00ffff","Name":"<a href='https://www.fripon.org/chile/m' target='_blank'>Chile </a>"} 
+      } ,
+        
+        
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -115.46581,    31.0459220]},
           "properties": {"marker-color": "#000000","Name":"San Pedro Martir"} 
