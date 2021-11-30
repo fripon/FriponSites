@@ -947,14 +947,15 @@
         "geometry": {"type": "Point", "coordinates": [0.26582,50.75718]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE03.jpg' target='_blank'>Eastbourne</a>"}
       },
-        
-        
          { "type": "Feature",  
         "geometry": {"type": "Point", "coordinates": [-4.485000,50.994200]},  
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW02.jpg' target='_blank'>Hartland</a>"}
       },
         
-        
+         { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-0.5613710,51.425690]},   
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE04.jpg' target='_blank'>Royal Holloway University</a>"}
+      },
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.4206861,47.35174]},  
