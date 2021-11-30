@@ -531,19 +531,15 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 8.16515117,  53.15296338]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI01.jpg' target='_blank'>Oldenburg</a>"}
-      },
-        
+      },        
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 11.325483,  53.220087]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEMV01.jpg' target='_blank'>Conow</a>"}
-      },
-        
-        
+      },     
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 7.713935,  53.773939]},   
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DENI03.jpg' target='_blank'>Spiekeroog</a>"}
-      },
-        
+      },      
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 11.720225,  48.545182]},
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY02.jpg' target='_blank'>Seysdorf </a>"}
@@ -560,6 +556,15 @@
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBB01.jpg' target='_blank'>Ketzür </a>"}
       },
         
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  8.35166,    54.652345]}, 
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DESH01.jpg' target='_blank'>Amrum </a>"}
+          },
+        
+         { "type": "Feature", 
+        "geometry": {"type": "Point", "coordinates": [  9.977867,    54.41144895]}, 
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DESH02.jpg' target='_blank'>Gettorf </a>"}
+      },
         
        { "type": "Feature",   
         "geometry": {"type": "Point", "coordinates": [  9.798961,    54.908907]},
