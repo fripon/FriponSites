@@ -1065,9 +1065,12 @@
         
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -13,    41.0]},
-          "properties": {"marker-color": "#00ffff","Name":"<a href='https://www.fripon.org/chile/m' target='_blank'>Chile </a>"} 
+          "properties": {"marker-color": "#00ffff","Name":"<a href='https://www.fripon.org/chile/' target='_blank'>Chile </a>"} 
       } ,
-        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -13,    40.0]},
+          "properties": {"marker-color": "ff0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Morocco </a>"} 
+      } ,
         
         
          { "type": "Feature",
