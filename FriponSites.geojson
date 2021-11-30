@@ -949,6 +949,13 @@
       },
         
         
+         { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-4.485000,50.994200]},  
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW02.jpg' target='_blank'>Hartland</a>"}
+      },
+        
+        
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [7.4206861,47.35174]},  
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHJU01.jpg' target='_blank'>Vicques</a>"}
