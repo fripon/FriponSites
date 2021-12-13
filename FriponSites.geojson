@@ -530,6 +530,14 @@
          "geometry": {"type": "Point", "coordinates": [ 7.00643,  52.37249]},
          "properties": {"marker-color":"#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLEN01.jpg' target='_blank'>Denekamp</a>"}},
    
+         { "type": "Feature",
+         "geometry": {"type": "Point", "coordinates": [ 6.395799,  52.813041]},
+         "properties": {"marker-color":"#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLNN02.jpg' target='_blank'>Dwingeloo</a>"}},
+   
+        
+        
+           
+        
         
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
@@ -555,6 +563,10 @@
         "geometry": {"type": "Point", "coordinates": [  10.486876,   48.853913]},
           "properties": {"marker-color": "#222222","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY01.jpg' target='_blank'>Nordlingen </a>"}
       },
+        
+        
+     
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  13.758098,    48.823929]},
           "properties": {"marker-color": "#000000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DEBY03.jpg' target='_blank'>Haidmühle </a>"}
