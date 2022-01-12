@@ -782,7 +782,7 @@
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITTO04.jpg' target='_blank'>Montelupo Fiorentino</a>"}},
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.732134, 40.582454 ]},  
-          "properties": {"marker-color": "#004400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA02.jpg' target='_blank'>Siligo</a>"}},        
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA02.jpg' target='_blank'>Siligo</a>"}},        
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [11.6183845, 44.1384611 ]}, 
           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITER07.jpg' target='_blank'>Monteromano</a>"}},
