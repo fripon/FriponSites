@@ -983,9 +983,19 @@
         
         
         
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-7.93574,32.218450]},
+          "properties": {"marker-color": "#660000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA02.jpg' target='_blank'>Ben Guerir</a>"}
+       },  
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-7.93574,32.218450]},
+          "properties": {"marker-color": "#660000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA02.jpg' target='_blank'>Ben Guerir</a>"}
+       },  
+        
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  7.612612, 46.228230]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CHVA01.jpg' target='_blank'>Saint Luc</a>"}
+        "geometry": {"type": "Point", "coordinates": [  -7.6574032, 33.54048]}, 
+          "properties": {"marker-color": "#660000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MACA01.jpg' target='_blank'>Casablanca</a>"}
       },
         
   
