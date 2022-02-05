@@ -1,5 +1,22 @@
 { "type": "FeatureCollection",
     "features": [
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -5.48614666667, 32.00652 ]}, 
+          "properties": {"marker-color": "#0000aa","Name":"DFN - Agoudal "}    }
+        , 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -7.131805, 31.0455666667 ]}, 
+          "properties": {"marker-color": "#0000aa","Name":"DFN - Ait-Ben-Haddou "}    }
+        , 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -5.133537, 33.52745 ]}, 
+          "properties": {"marker-color": "#0000aa","Name":"DFN - Ifrane "}    }
+        , 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -5.662671606993081, 32.92821318405081 ]}, 
+          "properties": {"marker-color": "#0000aa","Name":"DFN - Khenifra "}    }
+        , 
    
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -6.719213300000001, 32.0066466 ]}, 
