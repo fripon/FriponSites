@@ -1,0 +1,19 @@
+{ "type": "FeatureCollection",
+    "features": [
+   
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -3.15393,   47.30337 ]}, 
+          "properties": {"marker-color": "#aa0000","Name":"FRBR05 - Belle Ile (radio) "}    }
+        , 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  1.72589444,   44.74489722 ]}, 
+          "properties": {"marker-color": "#aa0000","Name":"FRMP08 - Gramat (radio)"}    }
+        , 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  5.5136,   47.3477 ]}, 
+          "properties": {"marker-color": "#ff00ff","Name":"Radar GRAVES"}    }
+         
+        
+        
+    ]}
