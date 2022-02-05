@@ -1,7 +1,10 @@
 { "type": "FeatureCollection",
     "features": [
    
-        
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -6.719213300000001, 32.0066466 ]}, 
+          "properties": {"marker-color": "#0000ff","Name":"DFN - Ouzoud "}    }
+        , 
        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  1.72589444,   44.74489722 ]}, 
