@@ -36,6 +36,10 @@
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -6.578376740825982, 34.26336779303995]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Honoré-de-Balzac - Kenitra"} },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -5.001853118830242, 34.034241253124186]}, 
+        "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Groupe scolaire Jean-de-La-Fontaine - Fès"} },
+        
 
         
         
