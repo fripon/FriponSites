@@ -30,9 +30,11 @@
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -9.761940471632975, 31.503925412615647]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Groupe scolaire Eric-Tabarly - Essaouira"} },
-        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -8.508151381493942, 33.247982278298025]}, 
+        "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Jean-Charcot - El Jadida"} },
 
-     
+    
  
         
         
