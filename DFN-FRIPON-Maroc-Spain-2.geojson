@@ -7,6 +7,10 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -4.38382300225609, 36.72975395216161]}, 
         "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français de Málaga"} },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.6144124663493438, 39.57211766713766]}, 
+        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français international de Palma de Majorque,"} },
+      
 
   
         
