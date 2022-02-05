@@ -5,6 +5,13 @@
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [9.130760, 39.281950 ]}, 
            "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA01.jpg' target='_blank'>SardiniaRadioTelescope</a>"}},
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.732134, 40.582454 ]},  
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA02.jpg' target='_blank'>Siligo</a>"}},   
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.254149,  40.120940]}, 
+        "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA03.jpg' target='_blank'>Gennargentu</a>"}}, 
+        
         
         
       
