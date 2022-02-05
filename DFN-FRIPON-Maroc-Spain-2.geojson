@@ -23,8 +23,12 @@
         
         
         
-        
-        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.112222,43.095833]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA06.jpg' target='_blank'>Hyeres</a>"}   },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.924186,43.751822]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA05.jpg' target='_blank'>Caussols</a>"}  },
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [5.436338889,43.343625]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA01.jpg' target='_blank'>Marseille</a>"} },
