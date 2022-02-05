@@ -7,8 +7,8 @@
         , 
        
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  1.72589444,   44.74489722 ]}, 
-          "properties": {"marker-color": "#aa0000","Name":"FRMP08 - Gramat (radio)"}    }
+        "geometry": {"type": "Point", "coordinates": [  -6.360833, 32.339444 ]}, 
+          "properties": {"marker-color": "#aa0000","Name":"DFN - Beni Mellal"}    }
         , 
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  5.5136,   47.3477 ]}, 
