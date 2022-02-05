@@ -1,6 +1,16 @@
 { "type": "FeatureCollection",
     "features": [
         
+        
+ 
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.736828,42.024775]},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA01.jpg' target='_blank'>Montsec</a>"}},
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.119061,41.391765]},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ESCA02.jpg' target='_blank'>Barcelona</a>"}},
+        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -2.5505178592275244, 37.222505404000856]}, 
         "properties": {"marker-color": "#FF4400","Name":"FRIPON - CAHA - Calar Alto obseebatory"} },
