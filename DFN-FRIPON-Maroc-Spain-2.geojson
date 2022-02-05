@@ -25,12 +25,11 @@
         "geometry": {"type": "Point", "coordinates": [  -1.916167443310513, 34.718472202609746]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée SandrinéO - Oujda"} },
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -1.916167443310513, 30.399273307683696]}, 
+        "geometry": {"type": "Point", "coordinates": [  -9.585489647122978, 30.399273307683696]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée français d'Agadir"} },
         
         
-     
-        
+
      
         
         
