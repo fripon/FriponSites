@@ -2,6 +2,11 @@
     "features": [
         
         
+        { "type": "Feature",
+          "geometry": {"type": "Point", "coordinates": [9.130760, 39.281950 ]}, 
+           "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA01.jpg' target='_blank'>SardiniaRadioTelescope</a>"}},
+        
+        
       
         
          { "type": "Feature",
