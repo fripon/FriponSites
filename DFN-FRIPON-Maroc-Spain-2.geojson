@@ -2,6 +2,12 @@
     "features": [
         
         
+      
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.032680626044289,36.79686419489609]},
+          "properties": {"marker-color": "#00FF00","Name":"Obsrvatoire d'Alger"}},
+        
  
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [0.736828,42.024775]},
