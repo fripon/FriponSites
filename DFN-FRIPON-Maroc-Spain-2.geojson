@@ -48,6 +48,20 @@
         "geometry": {"type": "Point", "coordinates": [9.128808,41.907619]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCO04.jpg' target='_blank'>Zicavo</a>"}   },
         
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [8.326975,  44.178546]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Finale Ligure </a>"}
+      },
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [9.130760, 39.281950 ]}, 
            "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA01.jpg' target='_blank'>SardiniaRadioTelescope</a>"}},
