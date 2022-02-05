@@ -1,8 +1,10 @@
 { "type": "FeatureCollection",
     "features": [
         
-        
-    
+     
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [10.727557853573291,34.77170026904778]},
+          "properties": {"marker-color": "#FF0000","Name":"École internationale de Sfax </a>"}   },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [9.867891220456272,37.26888802759126]},
           "properties": {"marker-color": "#FF0000","Name":"École Jean-Giono - Bizerte </a>"}   },
