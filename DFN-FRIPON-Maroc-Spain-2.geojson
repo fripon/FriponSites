@@ -2,6 +2,16 @@
     "features": [
         
          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -7.977738526399516, 29.7488324817901 ]}, 
+          "properties": {"marker-color": "#0000aa","Name":"DFN - Tata "}    }
+        , 
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -8.876917068461994, 30.48188362169925 ]}, 
+          "properties": {"marker-color": "#0000aa","Name":"DFN - Taroudant "}    }
+        , 
+        
+        
+         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -5.48614666667, 32.00652 ]}, 
           "properties": {"marker-color": "#0000aa","Name":"DFN - Agoudal "}    }
         , 
