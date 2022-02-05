@@ -14,7 +14,9 @@
         "geometry": {"type": "Point", "coordinates": [  -7.6574032, 33.54048]}, 
         "properties": {"marker-color": "#660000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MACA01.jpg' target='_blank'>Casablanca</a>"} },
         
-        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -6.8265636568375845, 33.969935458134344]}, 
+        "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée A. Malraux - Rabbat"} },
         
         
         
