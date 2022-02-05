@@ -35,6 +35,9 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -1.174368448286159, 38.06914620044271]}, 
          "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée André-Malraux - Murcie"} },
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  1.1239095402481403, 41.15278315475917]}, 
+        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée Marguerite-Yourcenar, Reus"} },
         
      
 
