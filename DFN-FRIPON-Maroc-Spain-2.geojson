@@ -2,6 +2,26 @@
     "features": [
         
          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-8.11418,31.53955]}, 
+          "properties": {"marker-color": "#FF0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Le Parc des Oliviers, Tamesluht, Marrakech</a>"}
+       },  
+        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-7.93574,32.218450]},
+          "properties": {"marker-color": "#660000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA02.jpg' target='_blank'>Ben Guerir</a>"}
+       },  
+         
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -7.6574032, 33.54048]}, 
+          "properties": {"marker-color": "#660000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MACA01.jpg' target='_blank'>Casablanca</a>"}
+      },
+        
+        
+        
+        
+        
+        
+         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -7.977738526399516, 29.7488324817901 ]}, 
           "properties": {"marker-color": "#0000aa","Name":"DFN - Tata "}    }
         , 
