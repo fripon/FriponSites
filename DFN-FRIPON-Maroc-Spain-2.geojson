@@ -1,6 +1,14 @@
 { "type": "FeatureCollection",
     "features": [
         
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -2.5505178592275244, 37.222505404000856]}, 
+        "properties": {"marker-color": "#FF4400","Name":"FRIPON - CAHA - Calar Alto obseebatory"} },
+        
+
+        
+        
+        
         
       
           { "type": "Feature",
@@ -42,10 +50,10 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -5.540549990035202, 33.890755410753286]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Paul-Valéry - Meknès"} },
-          { "type": "Feature",
+         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -7.395429649487256, 33.70194292145871]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Claude-Monet - Mohammedia"} },
-          { "type": "Feature",
+         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -2.92341297156288, 35.14744262227226]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - École Pierre-Paul-Riquet - Nador"} },
         
