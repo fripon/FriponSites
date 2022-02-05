@@ -45,6 +45,11 @@
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -7.395429649487256, 33.70194292145871]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Claude-Monet - Mohammedia"} },
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -2.92341297156288, 35.14744262227226]}, 
+        "properties": {"marker-color": "#660000","Name":"FRIPON - École Pierre-Paul-Riquet - Nador"} },
+        
+     
    
 
         
