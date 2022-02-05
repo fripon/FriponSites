@@ -21,6 +21,11 @@
        
         
         
+        
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.306967,42.47969]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR06.jpg' target='_blank'>Mantet</a>"}   },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [2.873871,43.163634]}, 
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR07.jpg' target='_blank'>Bizanet</a>"}   },
