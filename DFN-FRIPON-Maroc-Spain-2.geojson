@@ -18,9 +18,14 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -6.8265636568375845, 33.969935458134344]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée A. Malraux - Rabat"} },
- { "type": "Feature",
+         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -5.80913632069306, 35.77807197344272]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Regnaud - Tanger"} },
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -1.916167443310513, 34.718472202609746]}, 
+        "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée SandrinéO - Oujda"} },
+        
+     
         
         
         
