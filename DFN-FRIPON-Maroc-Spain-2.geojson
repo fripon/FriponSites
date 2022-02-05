@@ -19,12 +19,14 @@
         "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français de Málaga"} },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.6144124663493438, 39.57211766713766]}, 
-        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français international de Palma de Majorque,"} },
+        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français international de Palma de Majorque"} },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -0.4361071869269613, 39.51866993852618]}, 
-        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français international de Palma de Majorque,"} },
-      
-      
+        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français international de Palma de Majorque"} },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -0.4131768874844055, 38.40109251243987]}, 
+        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français d’Alicante Pierre-Deschamps,"} },
+     
 
   
         
