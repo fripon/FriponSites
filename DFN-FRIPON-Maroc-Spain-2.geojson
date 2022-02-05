@@ -3,16 +3,16 @@
    
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -6.719213300000001, 32.0066466 ]}, 
-          "properties": {"marker-color": "#0000ff","Name":"DFN - Ouzoud "}    }
+          "properties": {"marker-color": "#0000aa","Name":"DFN - Ouzoud "}    }
         , 
        
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -6.360833, 32.339444 ]}, 
-          "properties": {"marker-color": "#aa0000","Name":"DFN - Beni Mellal"}    }
+          "properties": {"marker-color": "#0000aa","Name":"DFN - Beni Mellal"}    }
         , 
          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  5.5136,   47.3477 ]}, 
-          "properties": {"marker-color": "#ff00ff","Name":"Radar GRAVES"}    }
+        "geometry": {"type": "Point", "coordinates": [ -7.864113499284641, 31.20881336805763 ]}, 
+          "properties": {"marker-color": "#0000aa","Name":"DFN - Oukaimeden"}    }
          
         
         
