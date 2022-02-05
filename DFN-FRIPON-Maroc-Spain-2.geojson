@@ -4,7 +4,7 @@
       
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-8.11418,31.53955]}, 
-        "properties": {"marker-color": "#FF0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>Le Parc des Oliviers, Tamesluht, Marrakech</a>"}  },   
+        "properties": {"marker-color": "#FF0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_MAMA01.jpg' target='_blank'>FRIPON - Le Parc des Oliviers, Tamesluht, Marrakech</a>"}  },   
         
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-7.93574,32.218450]},
