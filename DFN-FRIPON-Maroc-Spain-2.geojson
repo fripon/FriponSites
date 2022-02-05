@@ -2,8 +2,10 @@
     "features": [
         
         
-      
-
+    
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [9.867891220456272,37.26888802759126]},
+          "properties": {"marker-color": "#FF0000","Name":"École Jean-Giono - Bizerte </a>"}   },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [10.597610711362256,35.81304347306637]},
           "properties": {"marker-color": "#FF0000","Name":"Lycée G. Flaubert - La Marsa </a>"}   },
