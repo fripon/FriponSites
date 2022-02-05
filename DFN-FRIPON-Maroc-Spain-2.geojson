@@ -21,8 +21,12 @@
        
         
         
-        
-        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.873871,43.163634]}, 
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRLR07.jpg' target='_blank'>Bizanet</a>"}   },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 3.865493, 43.632701 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLR01.jpg' target='_blank'>Montpellier</a>"}  },
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [6.112222,43.095833]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPA06.jpg' target='_blank'>Hyeres</a>"}   },
