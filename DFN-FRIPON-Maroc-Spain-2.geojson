@@ -25,7 +25,11 @@
         "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français international de Palma de Majorque"} },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -0.4131768874844055, 38.40109251243987]}, 
-        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français d’Alicante Pierre-Deschamps,"} },
+        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français d’Alicante Pierre-Deschamps"} },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -1.174368448286159, 38.06914620044271]}, 
+        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée André-Malraux - Murcie"} },
+     
      
 
   
