@@ -56,12 +56,12 @@
         
         
         
-        
-        
+       { "type": "Feature",     
+        "geometry": {"type": "Point", "coordinates": [  12.6578331,       41.731651]},
+          "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_VAVA01.jpg' target='_blank'>Vatican</a>"}  } ,    
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [8.326975,  44.178546]},
-          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Finale Ligure </a>"}
-      },
+          "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITLI02.jpg' target='_blank'>Finale Ligure </a>"}  },
         { "type": "Feature",
           "geometry": {"type": "Point", "coordinates": [9.130760, 39.281950 ]}, 
            "properties": {"marker-color": "#00aa00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ITSA01.jpg' target='_blank'>SardiniaRadioTelescope</a>"}},
