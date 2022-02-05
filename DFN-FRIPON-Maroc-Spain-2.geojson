@@ -41,11 +41,12 @@
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Groupe scolaire Jean-de-La-Fontaine - Fès"} },
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -5.540549990035202, 33.890755410753286]}, 
-        "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Paul-Valéry - Meknès,"} },
-
-        
+        "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Paul-Valéry - Meknès"} },
+          { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -7.395429649487256, 33.70194292145871]}, 
+        "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée Claude-Monet - Mohammedia"} },
    
-        
+6
         
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -7.977738526399516, 29.7488324817901 ]}, 
