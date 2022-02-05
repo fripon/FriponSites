@@ -27,11 +27,13 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -9.585489647122978, 30.399273307683696]}, 
         "properties": {"marker-color": "#660000","Name":"FRIPON - Lycée français d'Agadir"} },
-        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -9.761940471632975, 31.503925412615647]}, 
+        "properties": {"marker-color": "#660000","Name":"FRIPON - Groupe scolaire Eric-Tabarly - Essaouira"} },
         
 
      
-        
+ 
         
         
          { "type": "Feature",
