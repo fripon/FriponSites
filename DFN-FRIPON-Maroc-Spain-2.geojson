@@ -2,12 +2,14 @@
     "features": [
         
         
-        
+      
 
-        
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [10.597610711362256,35.81304347306637]},
+          "properties": {"marker-color": "#FF0000","Name":"Lycée G. Flaubert - La Marsa </a>"}   },
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [10.335185156669011,36.880517166952]},
-          "properties": {"marker-color": "#FF0000","Name":"Lycée G. Flaubert - La Marsa </a>"}   },
+          "properties": {"marker-color": "#FF0000","Name":"Lycée Philippe-Seguin - Sousse </a>"}   },
         
           { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [14.484164052968307,35.90296010009191]},
