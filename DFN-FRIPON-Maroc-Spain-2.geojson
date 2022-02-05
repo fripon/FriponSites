@@ -38,6 +38,11 @@
         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  1.1239095402481403, 41.15278315475917]}, 
         "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée Marguerite-Yourcenar, Reus"} },
+         { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  1.3815358989659834, 38.89604403628774]}, 
+        "properties": {"marker-color": "#FF4400","Name":"FRIPON - Lycée français international d'Ibiza"} },
+        
+   
         
      
 
