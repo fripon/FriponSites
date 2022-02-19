@@ -597,8 +597,13 @@
           "properties": {"marker-color": "#cccc00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_DKSD01.jpg' target='_blank'>Sonderborg </a>"}
       },     
         
+      
         
         
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [14.7024628,42.0996381]},
+          "properties": {"marker-color": "#00aa00","Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_ITAB01.jpg' target='_blank'>Vasto</a>"}
+      }, 
         
         
         
