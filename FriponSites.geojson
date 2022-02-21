@@ -1157,6 +1157,13 @@
           "properties": {"marker-color": "#00FFFF","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BRRJ01.jpg' target='_blank'>Rio de Janeiro - ON</a>"} 
       } , 
         
+        
+        
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -15.1149350317,    15.394915428363]},
+          "properties": {"marker-color": "#00AA00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_SNLO02.jpg' target='_blank'>Linguere - UVS</a>"} 
+      } ,   
+        
      
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -16.25711550233,    15.60617868862]},
