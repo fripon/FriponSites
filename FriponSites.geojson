@@ -1149,20 +1149,19 @@
       } , 
         
 
-        
       
         
            { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -43.223263,    -22.895561]},
           "properties": {"marker-color": "#00FFFF","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BRRJ01.jpg' target='_blank'>Rio de Janeiro - ON</a>"} 
-      } ,
-        
-     
-	    
-	    
+      } ,	    
+     { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -14.938953700355,    12.897006196]},
+          "properties": {"marker-color": "#00AA00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_SNKO01.jpg' target='_blank'>Kolda - UVS</a>"} 
+      } , 	    
 	{ "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -16.26689252,    12.5563459725]},
-          "properties": {"marker-color": "#00AA00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_SNSL01.jpg' target='_blank'>Ziguinchor - UVS</a>"} 
+          "properties": {"marker-color": "#00AA00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_SNZI01.jpg' target='_blank'>Ziguinchor - UVS</a>"} 
       } ,            
      { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -14.96057868453,    16.652387273]},
