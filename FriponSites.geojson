@@ -1155,8 +1155,15 @@
            { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -43.223263,    -22.895561]},
           "properties": {"marker-color": "#00FFFF","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BRRJ01.jpg' target='_blank'>Rio de Janeiro - ON</a>"} 
-      }  
+      } , 
      
+    
+       
+           { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -17.433464,    14.732045]},
+          "properties": {"marker-color": "#00FF00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_SNDA01.jpg' target='_blank'>Dakar - IRD</a>"} 
+      } , 
+        
      
         
     ]}
