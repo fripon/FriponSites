@@ -1162,7 +1162,7 @@
            { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -17.433464,    14.732045]},
           "properties": {"marker-color": "#00FF00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_SNDA01.jpg' target='_blank'>Dakar - IRD</a>"} 
-      } , 
+      } 
         
      
         
