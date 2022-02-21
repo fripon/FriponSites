@@ -1157,11 +1157,11 @@
           "properties": {"marker-color": "#00FFFF","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BRRJ01.jpg' target='_blank'>Rio de Janeiro - ON</a>"} 
       } , 
      
-    
+
        
            { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -17.433464,    14.732045]},
-          "properties": {"marker-color": "#00AA00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_SNDA01.jpg' target='_blank'>Dakar - IRD</a>"} 
+        "geometry": {"type": "Point", "coordinates": [  -16.954238303,    14.7798366308]},
+          "properties": {"marker-color": "#00AA00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_SNDA01.jpg' target='_blank'>Thiès - UVS</a>"} 
       } ,
         
           { "type": "Feature",
