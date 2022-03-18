@@ -951,6 +951,12 @@
         "geometry": {"type": "Point", "coordinates": [-2.233606,53.474365]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNW01.jpg' target='_blank'>Manchester</a>"}
       },
+	   
+	     { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-2.97265,53.40511]},
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNW03.jpg' target='_blank'>Liverpool</a>"}
+      },
+	    
          { "type": "Feature",  
         "geometry": {"type": "Point", "coordinates": [-0.169234,51.637359]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENGL01.jpg' target='_blank'>EastBarnet</a>"}
