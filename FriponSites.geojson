@@ -1206,7 +1206,12 @@
           "properties": {"marker-color": "#00AA00","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_SNDA01.jpg' target='_blank'>Dakar - IRD</a>"} 
       } ,
         
-	    
+	  
+	   
+	     { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -2.401645,   12.237871]},
+          "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFCO01.jpg' target='_blank'>Koudougou</a>"} 
+      } ,
 
 	 { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -1.4976304334,    12.37768118]},
