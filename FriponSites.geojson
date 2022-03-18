@@ -1207,7 +1207,11 @@
       } ,
         
 	    
-      { "type": "Feature",
+	 { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -3.155010,   10.315942]},
+          "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFSO01.jpg' target='_blank'>Gaoua</a>"} 
+      } ,      
+         { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  0.345136,   12.10782]},
           "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFES01.jpg' target='_blank'>Fada N’Gourma</a>"} 
       } ,      
@@ -1219,7 +1223,7 @@
         "geometry": {"type": "Point", "coordinates": [  -2.401645,   12.237871]},
           "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFCO01.jpg' target='_blank'>Koudougou</a>"} 
       } ,
-	 { "type": "Feature",
+	  { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -1.4976304334,    12.37768118]},
           "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFCT01.jpg' target='_blank'>Ouagadougou</a>"} 
       }     
