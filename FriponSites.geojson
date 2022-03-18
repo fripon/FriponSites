@@ -1207,8 +1207,10 @@
       } ,
         
 	    
-
-	    
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  0.345136,   12.10782]},
+          "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFES01.jpg' target='_blank'>Fada N’Gourma</a>"} 
+      } ,      
 	  { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -4.306069,   11.166597]},
           "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFHB01.jpg' target='_blank'>Bobo Dioulasso</a>"} 
