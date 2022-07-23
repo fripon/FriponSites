@@ -988,7 +988,7 @@
       },
        { "type": "Feature",  
         "geometry": {"type": "Point", "coordinates": [-2.30649,53.23624]},   
-          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNW04.jpg' target='_blank'>Royal Jodrell Bank</a>"}
+          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNW04.jpg' target='_blank'>Jodrell Bank</a>"}
       },
         
 	    
