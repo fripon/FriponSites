@@ -885,6 +885,10 @@
         "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
           "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROIF01.jpg' target='_blank'>București</a>"}
       },
+	{ "type": "Feature",      
+        "geometry": {"type": "Point", "coordinates": [22.961107,45.067427]},
+          "properties": {"marker-color": "#FF4400","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ROGJ01.jpg' target='_blank'>Gornovita</a>"}
+      },
         
         
         { "type": "Feature",
