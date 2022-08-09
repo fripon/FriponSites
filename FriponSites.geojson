@@ -1128,7 +1128,7 @@
       } ,
            { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -70.764949,    -30.471006]},
-          "properties": {"marker-color": "#009999","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLCO04.jpg' target='_blank'>El Sauce</a>"} 
+          "properties": {"marker-color": "#00ffff","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_CLCO04.jpg' target='_blank'>El Sauce</a>"} 
       } ,
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -70.739617,    -29.254896]},
