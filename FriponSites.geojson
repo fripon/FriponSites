@@ -1220,19 +1220,19 @@
 	    
 	 { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -3.155010,   10.315942]},
-          "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFSO01.jpg' target='_blank'>Gaoua</a>"} 
+          "properties": {"marker-color": "#880000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFSO01.jpg' target='_blank'>Gaoua</a>"} 
       } ,      
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  0.345136,   12.10782]},
-          "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFES01.jpg' target='_blank'>Fada N’Gourma</a>"} 
+          "properties": {"marker-color": "#880000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFES01.jpg' target='_blank'>Fada N’Gourma</a>"} 
       } ,      
 	  { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -4.306069,   11.166597]},
-          "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFHB01.jpg' target='_blank'>Bobo Dioulasso</a>"} 
+          "properties": {"marker-color": "#880000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFHB01.jpg' target='_blank'>Bobo Dioulasso</a>"} 
       } ,     
 	  { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -2.401645,   12.237871]},
-          "properties": {"marker-color": "#CC0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFCO01.jpg' target='_blank'>Koudougou</a>"} 
+          "properties": {"marker-color": "#880000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_BFCO01.jpg' target='_blank'>Koudougou</a>"} 
       } ,
 	  { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  -1.4976304334,    12.37768118]},
